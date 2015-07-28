@@ -1,0 +1,56 @@
+Lenovo  Contrato de licencia
+L505-0009-01  04/2007
+Este Contrato de licencia (el “Contrato”) se aplica a cada producto de software de Lenovo adquirido por Usted, tanto si se ha preinstalado o incluido en un producto de hardware de Lenovo, comprado por separado o descargado de la página Web de Lenovo o de otra página Web aprobada por Lenovo.    Igualmente se aplica a toda actualización o parche de estos productos de software.   
+Este Contrato de licencia también está disponible en otros idiomas en  www.lenovo.com/license.  
+Lenovo autorizará el uso del producto de software sólo si Usted acepta este Contrato.   Aceptará los términos de este Contrato al hacer clic en la aceptación o al instalar, descargar o utilizar el producto de software.    
+Si no acepta estos términos, no instale, descargue ni utilice el/los producto/s de software.  
+* Si ha adquirido el/los productos de software y pagado una cuota de licencia, devuelva el producto de software a quien se lo vendió a fin de obtener el reembolso o abono por la cantidad pagada.  
+* Si ha adquirido el/los producto/s de software preinstalados o facilitados con un producto de hardware de Lenovo, deberá continuar utilizando el producto de hardware aunque el producto (o productos) de software no se contemple en los términos de este Contrato.  
+
+“Producto de software” incluye los programas de software del ordenador (tanto preinstalados como facilitados por separado) y los materiales relacionados con la licencia como es el caso de la documentación.   
+“Usted” y “Su” se refieren tanto a una persona en particular como a una entidad legal concreta.
+1. Derechos
+Debe guardar el documento original con la fecha de compra, siendo éste un recibo, factura o un documento similar que se entenderá como la prueba del derecho adquirido para utilizar el producto de software.  El documento de compra detalla el nivel de uso adquirido.   En caso de no especificarse dicho nivel de uso, deberá instalar y utilizar una copia individual del producto de software en un único producto de hardware.   Su documento de compra también es la prueba de Su elegibilidad para actualizaciones futuras, si se ofrecen.  En el caso de productos de software preinstalados, incluidos o distribuidos sin costes adicionales ya que forman parte de un producto de hardware de Lenovo, el documento original con la fecha de compra será además una prueba de Su derecho a utilizar dicho producto de software.  
+2. Licencia
+El producto de software es propiedad de Lenovo o de un proveedor de Lenovo. Dispone de derechos de copyright y licencia. No esta a la venta.    Lenovo le confiere una licencia no exclusiva para que Usted utilice el producto de software tras haberlo adquirido legalmente. 
+Puede a) utilizar el producto de software según el nivel de uso especificado en Su recibo de compra y, b) realizar e instalar copias, incluyendo una copia de seguridad, para permitir dicho uso.  Los términos de este Contrato se aplican a cada copia realizada por Usted.  No se puede retirar ni modificar los avisos de copyright o el texto referente a la titularidad. 
+Si ha adquirido el producto de software a través de una actualización de un programa, una vez instalada la actualización no podrá utilizar el producto de software a partir del cual ha realizado la actualización ni tampoco transferirlo a un tercero. 
+Deberá asegurarse de que cualquiera que utilice el producto de software (a través de un acceso local o remoto) lo haga sólo según el uso autorizado y cumpliendo con los términos de este Contrato. 
+No puede a) utilizar, copiar, modificar ni distribuir el producto de software excepto según se indica en este Contrato; b) invertir el montaje, invertir la compilación o traducir de otro modo el producto de software excepto según lo indicado expresamente por la ley, sin opción a un derogación contractual; 3) conceder licencias a terceros, ni alquilar o arrendar el producto de software. 
+Lenovo puede dar por finalizada Su licencia si no cumple con los términos de este Contrato.  En ese supuesto, Usted deberá devolver todas las copias del producto de software.   
+3. Transferibilidad
+No puede transferir ni asignar el producto de software a terceros, excepto según lo permitido en este apartado. 
+Los productos de software preinstalados cuentan con una licencia sólo para su uso en productos de hardware de Lenovo, en los cuales se han preinstalado o incluido, y pueden transferirse sólo con dicho producto de hardware de Lenovo.  No podrán transferirse independientemente del producto de hardware de Lenovo. 
+4. Componentes y productos de software de terceros
+Algunos productos de software de Lenovo y futuras actualizaciones y parches pueden contener componentes de terceros, los cuales pueden incluir un entorno para la preinstalación en Microsoft Windows.  Estos componentes de terceros se facilitan de acuerdo con unos términos y condiciones diferentes a los especificados en este Contrato y normalmente se detallan en un contrato de licencia aparte, o en un archivo denominado “LÉAME” (o similar).  Los términos de la licencia facilitada por un tercero, así como las restricciones en el uso, se aplicaran únicamente a dichos componentes.     
+Los productos de software de un tercero facilitados por Lenovo pueden estar al amparo de los términos de este Contrato aunque, por lo general, cuentan con una licencia facilitada por terceros, con sus propios términos y condiciones.   Los productos de software de terceros, no incluidos en la licencia de Lenovo, estarán sujetos únicamente a los términos de sus respectivos contratos de licencia.   
+5. Especificaciones del producto de software
+Las especificaciones del producto de software así como otra información específica sobre el entorno operativo podrán encontrarse en la documentación que acompaña al producto de software, de estar disponible; es el caso del archivo LÉAME (o similar), o cualquier otro publicado por Lenovo.   
+6. Precio
+El precio del producto de software depende del nivel de uso adquirido.  
+Si quiere incrementar Su nivel de uso, póngase en contacto con Lenovo o con la persona que le vendió el producto de software.  Pueden aplicarse costes adicionales.  
+Si cualquier autoridad añade un impuesto, tasa, gravamen o cuota—además del beneficio neto de Lenovo—a este producto de software, en ese caso Usted deberá pagar la cantidad especificada o facilitar la documentación de exención.  Debe responsabilizarse de todo impuesto sobre la propiedad personal aplicable al producto de software desde el momento de su adquisición. 
+7. Sin garantía
+El producto (o productos) de software se facilita “TAL COMO ESTÁ”.   
+SUJETO A TODA GARANTÍA ESTABLECIDA POR LEY LA CUAL NO PUEDE EXCLUIRSE, LENOVO NO OFRECE GARANTÍA NI CONDICIÓN ALGUNA, NI EXPLÍCITA NI IMPLÍCITA, INCLUYENDO, AUNQUE SIN LIMITARSE A ELLAS, LAS GARANTÍAS O CONDICIONES IMPLÍCITAS DE COMERCIABILIDAD, APTITUD PARA UN PROPÓSITO CONCRETO Y NO CONTRAVENCIÓN, EN RELACIÓN CON EL PRODUCTO DE SOFTWARE O LA ASISTENCIA TÉCNICA, SI SE OFRECE. 
+La exclusión también concierne a todos los proveedores y programadores de Lenovo. 
+Los proveedores o editores de productos de software diferentes a los de Lenovo podrán ofrecer sus propias garantías. 
+Lenovo no ofrece asistencia técnica, a menos que Lenovo lo especifique como tal por escrito. 
+8. Limitación de responsabilidad 
+Pueden presentarse circunstancias ante las cuales, fallos o errores por parte de Lenovo o a otras obligaciones, en las que Usted tenga derecho a reclamar indemnizaciones.  En cada caso, e independientemente de las razones por las  que esté legitimado para reclamar por los daños ocasionados  (incluyendo el incumplimiento esencial, la negligencia, falsedad, o cualquier otra reclamación contractual o extra contractual), excepto en la medida en que dicha responsabilidad no pueda ser derogada o limitada por la normativa legal aplicable, Lenovo sólo será responsable de reclamaciones por pérdidas o daños directos sufridos por Usted hasta la cantidad efectivamente pagada por Usted por el producto de software.   Esta limitación no se aplicará a reclamaciones referidas a daños físicos a las personas naturales (incluyendo la muerte) o daños a las propiedades en los que se requiera la responsabilidad de Lenovo a nivel legal.  
+Esta limitación también se aplica a los proveedores y distribuidores de Lenovo.  Es la responsabilidad máxima de la que Lenovo, sus proveedores y distribuidores, se hacen cargo colectivamente. 
+BAJO NINGUNA CIRCUNSTANCIA LENOVO, SUS PROVEEDORES O DISTRIBUIDORES SERÁN RESPONSABLES DE NINGUNO DE LOS CASOS SIGUIENTES AUN CUANDO SE HUBIERA INFORMADO DE LA POSIBILIDAD DE QUE OCURRRIESEN:  1) RECLAMACIONES POR DAÑOS DE TERCERAS PARTES CONTRA USTED; 2) PÉRDIDA DE, O DAÑOS EN, DATOS; O 3), DAÑOS ESPECIALES, INCIDENTALES O INDIRECTOS O DE CUALQUIER DAÑO CONSECUENCIAL, INCLUYENDO PÉRDIDA DE BENEFICIOS, NEGOCIO, INGRESOS, PLUSVALíAS O ECONOMIAS PREVISTAS.  ALGUNOS ESTADOS Y JURISDICCIONES NO PERMITEN LA EXCLUSIÓN O LIMITACIÓN DE LOS DAÑOS INCIDENTALES O INDIRECTOS, POR LO QUE LA  EXCLUSIÓN O LIMITACIÓN ANTERIOR PUEDE NO SERLE DE APLICACIÓN. 
+9. Derechos del consumidor
+Nada de lo contenido en este Contrato afectará a los derechos estatutarios de los consumidores que no puedan ser cancelados o limitados por contrato.  Puede que disponga de derechos adicionales como consumidor al amparo de la ley local, algo que este Contrato no puede cambiar.   
+10. General 
+a) Si cualquier estipulación del presente Contrato resultara inválida, ilegal o no exigible, el resto de las estipulaciones del Contrato permanecerán en vigor.   
+b) Se compromete a cumplir con todas las leyes y normativas de exportación e importación aplicables.   
+c) ., Ni Usted ni Lenovo podrán interponer acción alguna a que pudiera dar lugar este Contrato transcurridos más de dos años desde que se produjo su causa, salvo que la Ley lo establezca de manera distinta y no sea posible su limitación o renuncia expresa   
+11. Resolución de litigios
+Si Usted ha adquirido el producto de software en Camboya, Indonesia, Filipinas, Vietnam o Sri Lanka, los litigios resultantes de, o en relación con, este producto de software deberán resolverse mediante arbitraje en Singapur y este Contrato deberá ser dirigido, interpretado y cumplido de acuerdo con las leyes de Singapur, a pesar de cualquier posible conflicto de ley.   Si Usted ha adquirido el producto de software en la India, los litigios resultantes de, o en relación con, este producto de software finalmente deberán resolverse mediante arbitraje a celebrar en Bangalore, la India.  El arbitraje en Singapur se llevará a cabo de acuerdo con las Reglas de Arbitraje del Centro Internacional de Arbitraje de Singapur (“Reglas SIAC") que estén en vigor.  El arbitraje en la India se regirá de acuerdo con las leyes que, en ese momento, tengan vigencia en la India.  El laudo arbitral será final y obligatorio para ambas partes, sin derecho a apelación, presentándose por escrito y fijando las determinaciones halladas y las conclusiones legales.    Todo procedimiento de arbitraje deberá llevarse a cabo—incluyendo toda documentación presentada en dichos procedimientos—en inglés; igualmente, la versión inglesa de este Contrato prevalecerá sobre cualquier otra versión presentada en otro idioma.  
+
+
+ 
+
+
+

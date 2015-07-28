@@ -1,0 +1,58 @@
+Lenovo  Acordo de Licença 
+L505-0009-01  04/2007
+Este Acordo de Licença da Lenovo (o “Acordo”) aplica-se a cada Produto de Software Lenovo que adquira, quer seja pré-instalado ou incluído num produto de hardware Lenovo, adquirido separadamente ou transferido por si de um Web site Lenovo ou de um Web site de terceiros aprovado pela Lenovo.  Também se aplica a quaisquer actualizações ou pacotes de resoluções (“patches”) a estes Produtos de Software.  
+Este Acordo de Licença da Lenovo está disponível em outros idiomas em www.lenovo.com/license.  
+A Lenovo só concede a licença para o Produto de Software se aceitar os termos deste Acordo.  O utilizador concorda com os termos deste Acordo ao clicar para aceitá-los ou através da instalação, transferência ou utilização do Produto de Software. 
+Se não concordar com este termos, não instale, transfira ou utilize o(s) Produto(s) de Software. 
+* Se adquiriu o(s) Produto(s) de Software e pagou uma taxa de licença, devolva o Produto de Software ao retalhista no qual realizou a compra para obter um reembolso ou crédito pelo montante pago. 
+* Se adquiriu o(s) Produto(s) de Software pré-instalado ou fornecido com um produto de hardware Lenovo, poderá continuar a utilizar o produto de hardware, mas não o(s) Produto(s) de Software abrangido(s) por este Acordo. 
+
+O “Produto de Software” inclui programas de software informático (pré-instalados ou fornecidos separadamente) e materiais de licença relacionados, tais como documentação.   
+“Você” e “Seu” referem-se a uma pessoa individual ou a uma entidade legal singular.
+1. Direitos
+Tem de manter o seu documento referente à transacção de venda original e datado, como um recibo, factura ou documento semelhante, como prova do seu direito a utilizar o Produto de Software. O documento da transacção especifica o nível de utilização adquirido.  Se não foi especificado um nível de utilização, poderá instalar e utilizar uma única cópia do Produto de Software num único produto de hardware.  O seu documento de transacção também constitui prova da sua elegibilidade para futuras actualizações, se existentes. Para Produtos de Software pré-instalados, incluídos ou distribuídos sem encargos para utilização num produto de hardware Lenovo, o seu documento de transacção de vendas do produto de hardware também constitui prova do seu direito a utilizar o Produto de Software. 
+2. Licença
+O Produto de Software é propriedade da Lenovo ou de um fornecedor da Lenovo e é cedida através de direitos de autor e licença; não é vendido.  A Lenovo concede ao utilizador uma licença não exclusiva para a utilização do Produto de Software quando legalmente adquirido.
+O utilizador poderá a) utilizar o Produto de Software até ao nível de utilização especificado no seu documento de transacção e b) fazer e instalar cópias, incluindo uma cópia de segurança, para suportar tal utilização. Os termos deste Acordo aplicam-se a cada cópia realizada. Não poderá retirar ou alterar quaisquer avisos de direitos de autor ou legendas de propriedade.
+Se adquirir o Produto de Software como uma actualização ao programa, depois de instalar a actualização, não poderá utilizar o Produto de Software a partir do qual actualizou ou transferiu a terceiros.
+Deverá garantir que qualquer utilizador que utilize o Produto de Software (através de acesso local ou remoto) fá-lo apenas com a sua autorização e cumpre os termos deste Acordo.
+O Cliente não poderá a) utilizar, copiar, modificar ou distribuir o Produto de Software salvo se descrito neste Acordo; b) proceder engenharia reversa, descompilar ou traduzir o Produto de Software, excepto de acordo com o especificamente estabelecido por lei sem a possibilidade de exoneração contratual; c) sub-licenciar, alugar ou conceder o Produto de Software.
+A Lenovo poderá cessar a sua Licença em caso de não cumprimento dos termos deste Acordo. Se a Lenovo o fizer, o Cliente deve destruir todas as cópias do Produto de Software.  
+3. Transferabilidade
+Não poderá transferir ou atribuir o Produto de Software a terceiros, salvo tal como permitido nesta secção.
+Os Produtos de Software pré-instalados destinam-se a utilização exclusiva nos produtos de hardware Lenovo nos quais são pré-instalados ou incluídos e só poderão ser transferidos com esse produto de hardware Lenovo. Não poderão ser transferidos independentemente do produto de hardware Lenovo.
+4. Componentes e Produtos de Software de Terceiros
+Alguns Produtos de Software Lenovo e futuras actualizações e pacotes de resoluções (“patches”) poderão incluir componentes de terceiros, que poderão incluir o Ambiente de Pré-Instalação Microsoft Windows (Microsoft Windows Preinstallation Environment). Estes componentes de terceiros são fornecidos com termos e condições distintos deste Acordo e, normalmente, encontram-se num acordo de licença separado ou num ficheiro README (leiame ou com um nome semelhante). Os termos da licença e restrições de utilização de terceiros regem unicamente a utilização de tais componentes.    
+Os Produtos de Software de Terceiros fornecidos pela Lenovo poderão ser regidos pelos termos deste Acordo, mas, normalmente, são licenciados pela entidade terceira sob os seus próprios termos e condições.  Os Produtos de Software de Terceiros que não são licenciados pela Lenovo estão sujeitos aos termos dos respectivos acordos de licença.  
+5. Especificações do Produto de Software  
+As especificações do Produto de Software e as informações de ambiente operativo especificadas podem ser encontradas na documentação que acompanha o Produto de Software, se disponível, tal como um ficheiro README ou com um nome semelhante, ou publicações da Lenovo.  
+6. Encargos
+Os encargos para o Produto de Software baseiam-se no nível de utilização adquirido. 
+Se pretender aumentar o nível de utilização, contacte a Lenovo ou a entidade a partir da qual adquiriu o Produto de Software.  Poderão aplicar-se taxas adicionais. 
+Se uma autoridade impuser um imposto, taxa, encargo ou tarifa, excluindo os baseados no rendimento líquido da Lenovo, sobre o Produto de Software, o utilizador concorda em pagar o montante especificado ou fornecer a documentação da isenção. O utilizador é responsável por quaisquer imposto de propriedade pessoal relativamente ao Produto de Software a partir da data de aquisição.
+7. Sem Garantia
+O(s)Produto(s) de Software é fornecido “NO ESTADO”.  
+COM EXCEÇÃO DE QUAISQUER GARANTIAS ESTATUTÁRIAS QUE NÃO PODEM SER EXCLUÍDAS, A LENOVO NÃO FORNCE QUAISQUER GARANTIAS OU CONDIÇÕES, NA FORMA EXPRESSA OU IMPLÍCITA, INCLUINDO MAS NÃO SE LIMITANDO A GARANTIAS IMPLÍCITAS OU CONDIÇÕES DE COMERCIABILIDADE, ADEQUAÇÃO A UM DETERMINADO FIM E NÃO VIOLAÇÃO RELATIVAMENTE AO PRODUTO DE SOFTWARE OU ASSISTÊNCIA TÉCNICA, SE EXISTENTE.
+A exclusão também se aplica a quaisquer programadores e fornecedores da Lenovo.
+Os fornecedores ou editores de Produtos de Software não Lenovo poderão fornecer as suas próprias garantias.
+A Lenovo não fornece assistência técnica, a menos que a Lenovo especifique em contrário, por escrito.
+8. Limitação de Responsabilidade
+Poderão surgir circunstâncias em que, devido a um defeito numa peça Lenovo ou outra responsabilidade, tenha direito a recuperar danos da Lenovo. Em situações desta natureza, independentemente da base em que tem o direito de reclamar danos à Lenovo (incluindo violação fundamental, negligência, representação indevida ou outras reclamações contratuais), com excepção e até ao limite de exoneração de responsabilidade das leis aplicáveis, a Lenovo é responsável pelo montante, não superior, dos danos sofridos, até ao montante pago pelo Produto de Software.  Este limite não se aplica a danos por ferimentos pessoais (incluindo a morte) e danos materiais e pessoais tangíveis pelos quais a Lenovo é responsável ao abrigo da lei. 
+Este limite também se aplica aos fornecedores e revendedores da Lenovo. Este é o máximo pelo qual a Lenovo, seus fornecedores e revendedores são colectivamente responsáveis.
+SOB NENHUMA CIRCUNSTÂNCIA A LENOVO, SEUS FORNECEDORES OU REVENDEDORES É RESPONSÁVEL POR QUALQUER DOS ITENS SEGUINTES MESMO QUE INFORMADA DA SUA POSSIBILIDADE: 1) RECLAMAÇÕES DE DANOS DE TERCEIROS CONTRA SI; 2) PERDA OU DANOS AOS SEUS DADOS OU 3) DANOS ESPECIAIS, ACIDENTAIS OU INDIRECTOS OU QUAISQUER DANOS ECONÓMICOS CONSEQUENCIAIS, INCLUINDO PERDA DE LUCROS, PERDA DE RECEITA, BOA FÉ OU POUPANÇAS ANTECIPADAS. ALGUNS ESTADOS OU JURISDIÇÕES NÃO PERMITEM A EXCLUSÃO DE DANOS ACIDENTAIS OU CONSEQUENCIAIS, PELO QUE A LIMITAÇÃO OU EXCLUSÃO SUPRA-CITADA PODERÁ NÃO SE APLICAR AO SEU CASO. 
+9. Direitos do Consumidor
+Nada neste Acordo afecta quaisquer direitos estatutários dos consumidores que não possam ser exonerados ou limitados pelo contrato. Poderá ter direitos do consumidor adicionais ao abrigo de leis locais aplicáveis, que este Acordo não pode alterar.  
+10. Geral 
+Na eventualidade de qualquer disposição deste Acordo ser considerada inválida ou inexeqüível, as restantes disposições deste Acordo permanecem em vigor.  
+O Cliente concorda em cumprir com todas as leis e regulamentos de importação e exportação aplicáveis.  
+Nem o cliente, nem a Lenovo iniciarão qualquer acção legal ao abrigo deste Acordo mais de dois (2) anos após o surgimento da causa da acção, a menos que determinado pela lei local sem a possibilidade de exoneração ou limitação contratual.  
+11. Resolução de Disputas
+Se adquiriu o Produto de Software no Cambodja, Indonésia, Filipinas, Vietname ou Sri-Lanca, as disputas resultantes ou relativas com este Produto de Software deverão ser resolvidas por um tribunal arbitral em Singapura e este Acordo deverá ser regido, interpretado e aplicado de acordo com as leis de Singapura, sem consideração por conflito de leis. Se adquiriu o Produto de Software na Índia, as disputas resultantes ou em ligação com este Produto de Software deverão ser resolvidas por um tribunal arbitral reunido em Bangalore, Índia. O tribunal arbitral em Singapura deverá ser reunido de acordo com as Regras de Tribunal Arbitral do Singapore International Arbitration Center ("Regras do SIAC") em vigor. O tribunal arbitral na Índia deve ser reunido de acordo com as leis da Índia em vigor. A decisão do tribunal arbitral é final e vinculativa para as partes, sem apelo e deverão ser apresentadas por escritos, bem como as descobertas dos factos e as conclusões da lei.  Todas as audiências arbitrárias deverão ser conduzidas, incluindo todos os documentos apresentados nas audiências, em Inglês e a versão em Inglês deste Acordo prevalece sobre qualquer versão em outro idioma. 
+
+
+ 
+ 
+
+
+
+

@@ -1,0 +1,57 @@
+Lenovo  Lisensavtale 
+L505-0009-01  04/2007
+Denne Lenovo lisensavtalen ("avtalen") gjelder hvert enkelt Lenovo programvare som du anskaffer, enten det er forhåndsinstallert på eller inkludert med enLenovo maskinvare, anskaffet separat eller lastet ned av deg fra Lenovos nettsider eller fra en tredjeparts nettsider som er godkjent av Lenovo.  Den gjelder også for oppdateringer eller ekstra elementer til disse programvarene.  
+Denne Lenovo lisensavtalen er tilgjengelig på andre språk på www.lenovo.com/license .  
+Lenovo vil kun gi deg lisens til programvarenhvis du godtar denne avtalen.  Ved å klikke for å godkjenne eller ved å installere, laste ned eller bruke programvare godtar du vilkårene i denne avtalen. 
+Hvis du ikke godtar disse vilkårene, ikke installer, last ned eller bruk programvaren/ene. 
+* Hvis du har anskaffet programvaren/ene og betalt en lisensavgift, returnerer du programvaren til den parten du anskaffet det fra for å få refundert eller kreditert beløpet du betalte. 
+* Hvis du anskaffet programvaren/eneforhåndsinstallert eller sammen med en Lenovo maskinvare, kan du fortsette å bruke maskinvaren, men programvaren/ene er dekket av denne avtalen. 
+
+"Programvare" inkluderer programvareprogrammer (enten forhåndsinstallert eller levert separat) og relaterte lisensmaterialer, slik som dokumentasjon.   
+"Du" og "Din" henviser til enten en enkeltperson eller enkel juridisk enhet.
+1. Berettigelse
+Du må beholde ditt originale daterte salgsoverføringsdokumentet, slik som f.eks. en kvittering, faktura eller lignende dokument, som ditt bevis på din rettighet til å bruke programvareproduktet. Overføringsdokumentet spesifiserer anskaffet bruksnivå.  Hvis brukernivå ikke er spesifisert, kan du installere og bruke én kopi av programvareproduktet på et enkelt maskinvareprodukt.  Overføringsdokumentet gir også bevis for rettigheter til eventuelle fremtidige oppgraderinger. For programvareprodukter som er installert på, inkludert sammen med eller distribuert uten kostnad for bruk på en Lenovo maskinvare er også ditt kjøpsbevis for din rettighet til å bruke programvaren 
+2. Lisens
+Programvare eies av Lenovo eller en Lenovo-leverandør, og det er beskyttet av opphavsrett og lisens, og det selges ikke.  Lenovo gir deg en ikke-eksklusiv lisens til å bruke programvaren når du på lovlig måte anskaffer det.
+Du kan bruke a) programvaren inntil bruksnivå som er spesifisert i overføringsdokumentet og b) lage og installere kopier, inkludert en backupkopi for å støtte slik bruk. Vilkårene i denne avtalen gjelder for hver kopi du lager. Du kan ikke fjerne eller endre opphavsrettslige merknader eller opplysninger om eier.
+Hvis du anskaffer programvaren som en programoppgradering, kan du etter at du installerer oppgraderingen ikke bruke programvaren du oppgraderte eller overføre det til en annen part. 
+Du skal se til at alle som bruker programvaren (med lokal eller fjern adgang) gjør dette kun etter din autoriserte bruk og oppfyller vilkårene i denne avtalen.
+Du kan ikke a) bruke, kopiere, modifisere eller distribuere programvarenunntatt slik som gitt i denne avtalen; b) foreta demontering, dekompilering  eller på annen måte oversette programvaren, unntatt slik som spesifikt tillat ved lov uten mulighet for kontraktsmessig frasigelse eller 3) underlisensere, leie ut eller lease ut programvaren.
+Lenovo kan si opp lisensen din hvis ikke oppfyller vilkårene i denne avtalen. Hvis Lenovo gjør dette, må du tilintetgjøre alle kopier av programvaren.  
+3. Overføringsevne 
+Du kan ikke overføre eller tildele programvaren til noen annen part, unntatt slik som tillatt i dette avsnittet.
+Forhåndsinstallerte programvare er på lisens for bruk kun på Lenovo maskinvare de er forhåndsinstallerte på eller inkludert med og kan kun overføres med denne Lenovo maskinvaren. De kan ikke overføres uavhengig av Lenovo maskinvare.
+4. Tredjeparts programvarekomponenter og produkter
+Noen Lenovo programvarer og fremtidige oppdateringer og deler kan inneholder tredjepartskomponenter, som kan inkludere Microsoft Windows forhåndsinstallasjonsmiljø. Disse tredjeparts komponentene er gitt deg under separate vilkår og betingelser som er annerledes enn denne avtalen, typisk finnes disse i en separat lisensavtale eller i en README (eller lignende) fil. Tredjeparts lisensvilkår og bruksrestriksjoner vil kun styre bruken av disse komponentene.    
+Tredjeparts programvarekomponenter gitt av Lenovo kan være styrt av vilkårene i denne avtalen, men er vanligvis på lisens fra tredjepart på egne vilkår og betingelser.  Tredjeparts programvare som ikke er på lisens fra Lenovo er kun underlagt de vilkårene til de medfølgende lisensavtalene.  
+5. Programvareproduktets spesifikasjoner  
+Programvarens spesifikasjoner og spesifisert bruksmiljøinformasjon kan finnes i dokumentasjonen som medfølger programvaren, hvis den finnes, slik som en fil ved navnet README eller lignende, eller på annen måte kunngjort av Lenovo.  
+6. Kostnader
+Kostnader for programvaren er basert på bruksnivå som er anskaffet. 
+Hvis du ønsker å øke bruksnivå, ta kontakt med Lenovo eller parten du anskaffet programvaren fra.  Ekstra kostnader kan bli gjeldende. 
+Hvis en myndighet pålegger en avgift eller skatt, ekskludert de som er basert på Lenovos netto inntekt, på programvare, aksepterer du å betale det spesifiserte beløpet eller fremlegge fritakelsesdokumentasjon. Du er ansvarlig for alle personlige eiendomsskatter for programvaren fra den dato du anskaffer det.
+7. Ingen garanti
+Programvarene gis "SOM DE ER".  
+UNDERLAGT ENHVER LOVBESTEMT GARANTI SOM IKKE KAN EKSKLUDERES, GIR LENOVO INGEN GARANTIER ELLER BETINGELSER, VERKEN UTTRYKKELIG ELLER IMPLISERT, INKLUDERT, MEN IKKE BEGRENSET TIL DE IMPLISERTE GARANTIER ELLER BETINGELSER FOR SALGBARHET, EGNETHET TIL ET BESTEMT FORMÅL OG IKKE-OVERTREDELSE, ANGÅENDE PROGRAMVAREN ELLER TEKNISK SUPPORT, HVIS NOEN.
+Denne utelukkelsen gjelder også alle Lenovos utviklere og leverandører.
+Leverandører eller utgivere av ikke-Lenovo programvarer kan gi egne garantier.
+Lenovo tilbyr ikke teknisk support, med mindre Lenovo spesifiserer annet skriftlig.
+8. Ansvarsbegrensning
+Omstendigheter kan oppstå der du kan ha rett til å få skadeerstatning fra Lenovo, på grunn av en standard på Lenovos del eller annet ansvar. I slike tilfeller, uansett grunnlag du har for å være berettiget til å kreve erstatning fra Lenovo (inkludert fundamental overtredelse, uaktsomhet, feilrepresentasjon eller annen kontraktsmessig eller tort krav), unntatt og i den utstrekning ansvaret ikke kan fratres eller begrenses ved gjeldende lov, er Lenovo ikke ansvarlig for mer enn beløpet for faktiske direkte skader påført deg, opptil det beløpet du betalte for programvaren.  Denne grensen gjelder ikke skader for personskader (inkludert dødsfall) og skade på eiendom og materielle personlige eiendeler som Lenovo er ansvarlig for ved lov. 
+Denne grensen gjelder også Lenovos leverandører og forhandlere. Den er det maksimale som Lenovo, leverandørene og forhandlerne i fellesskap er ansvarlig for.
+UNDER INGEN OMSTENDIGHETER ER LENOVO, DENNES LEVERANDØRER ELLER FORHANDLERE ANSVARLIGE FOR FØLGENDE, SELV OM DE ER INFORMERT OM MULIGHETEN FOR DISSE: 1) TREDJEPARTS KRAV MOT DEG FOR SKADER, 2) TAP AV, ELLER SKADE PÅ, DINE DATA, ELLER 3) SPESIELLE, TILFELDIGE ELLER INDIREKTE SKADER ELLER ØKONOMISKE FØLGESSKADER, INKLUDERT TAP AV FORTJENESTE, FORRETNINGSINNTEKT, GOODWILL ELLER FORVENTEDE BESPARELSER. ENKELTE STATER ELLER LANDS LOVGIVNING TILLATER INGEN FORM FOR FRASKRIVELSE ELLER BEGRENSING AV ANSVAR VED UHELL OG FØLGESKADER, SÅ DET ER MULIG AT BEGRENSNINGENE ELLER UNNTAKET SOM ER NEVNT OVENFOR, IKKE GJELDER DEG. 
+9. Konsumentrettigheter
+Ikke noe i denne avtalen påvirker lovbestemte rettigheter for konsumenter, som ikke kan fratres eller begrenses av kontrakt. Du kan ha ekstra konsumentrettigheter under gjeldende lokale lover, som denne avtalen ikke kan endre.  
+10. Generelt 
+I tilfelle et eller flere av punktene i denne avtalen viser seg å være ugyldig eller ikke-gjennomførbare, vil de resterende punktene i denne avtalen fortsatt gjelde fullstendig.  
+Du aksepterer å oppfylle alle gjeldende eksport- og importlover og forskrifter.  
+Verken du eller Lenovo skal foreta juridiske handlinger under denne avtalen mer enn to (2) år etter årsaken til handlingen oppsto, med mindre annet er gitt ved lokal lov uten mulighet til kontraktsmessig fratredelse eller begrensning.  
+11. Konfliktløsning 
+Hvis du kjøpte programvareproduktet i Kambodsja, Indonesia, Filippinene, Vietnam eller Sri Lanka, skal konflikter som oppstår fra eller i forbindelse med denne programvaren endelig bestemmes ved forliksforhandlinger i Singapore, og denne avtalen skal styres, tolkes og gjennomføres i overensstemmelse med lovene i Singapore, uten hensyn til lovkonflikter. Hvis du har anskaffet programvaren i India, skal konflikter som oppstår ut fra eller i forbindelse med denne programvaren endelig avgjøres ved forliksforhandlinger i Bangalore, India. Forliksforhandlinger i Singapore skal avholdes i overensstemmelse med gjeldende forliksregler for Singapore International Arbitration Center ("SIAC-regler"). Forliksforhandlinger i India skal avholdes i overensstemmelse med gjeldende lover i India. Forliket skal være endelig og bindende for partene uten ankerettigheter og skal være skriftlig og vise fakta og lovkonklusjon.  Alle forliksforhandlinger skal gjennomføres, inkludert alle dokumenter presentert i slike forhandlinger, på engelsk, og den engelske språkversjonen av denne avtalen er gjeldende over alle andre språkversjoner i slike forhandlinger. 
+
+
+ 
+
+
+
+

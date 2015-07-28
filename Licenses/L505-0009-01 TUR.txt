@@ -1,0 +1,56 @@
+Lenovo  Lisans Anlaþmasý 
+L505-0009-01  04/2007
+Ýþbu Len{}ovo Lisans Anlaþmasý (“Anlaþma”), ister bir Lenovo donaným ürünü üzerinde bulunsun ya da bir Lenovo donaným ürünü ile birlikte verilsin, isterse ayrýca satýn alýnsýn veya tarafýnýzdan Lenovo Internet sitesinden ya da üçüncü þahýslara ait olup Lenovo tarafýndan onaylanmýþ bulunan Internet sitelerinden indirilsin, temin ettiðiniz tüm Lenovo Yazýlým Ürünleri için geçerlidir.  Bu Lisans Anlaþmasý söz konusu Yazýlým Ürünlerinin güncelleþtirmeleri ve ekleri için de geçerlidir.  
+Ýþbu Lenovo Lisans Anlaþmasýný www.lenovo.com/license adresinde diðer dillerde bulabilirsiniz.  
+Lenovo, Yazýlým Ürününün Lisansýný size ancak iþbu Anlaþmayý kabul etmeniz koþulu ile verecektir.  Kabul düðmesine basmakla ya da Yazýlým Ürününü kurmakla, indirmekle veya kullanmakla iþbu Anlaþma hüküm ve koþullarýný kabul etmiþ olacaksýnýz. 
+Ýþbu Anlaþma hükümlerini kabul etmiyor iseniz lütfen Yazýlým Ürününü(Ürünlerini) kurmayýnýz, indirmeyiniz ve kullanmayýnýz. 
+* Yazýlým Ürününü satýn almýþ ve bir lisans ücreti ödemiþ iseniz, Yazýlým Ürününü satýn aldýðýnýz yere iade ederek ödemiþ olduðunuz bedeli geri alabilirsiniz. 
+* Yazýlým Ürününü bir Lenovo donaným ürünü üzerinde ya da bir Lenovo donaným ürünü ile birlikte aldýysanýz, donaným ürününü kullanmaya devam edebilirsiniz; ancak iþbu Anlaþma kapsamýndaki Yazýlým Ürününü kullanamazsýnýz. 
+
+Yazýlým Ürünü” (donanýmýn üzerinde bulunan ya da ayrýca temin edilen) bilgisayar yazýlým programlarýný ve diðer lisanslý belgeleri içermektedir.   
+“Siz” ve “Sizin” kelimeleri hakiki bir kiþi ya da tek bir tüzel kiþi anlamýnda kullanýlmaktadýr.
+1. Lisans Hakký Verilmesi
+Makbuz ya da fatura gibi, tarihli satýþ belgesinin aslýný Size Yazýlým Ürününü kullanma hakký saðlayan belge olarak muhafaza etmeniz gerekmektedir. Size tanýnan kullaným düzeyi, satýþ belgesi üzerinde belirtilmektedir.  Herhangi bir kullaným düzeyi belirtilmediði takdirde, Yazýlým Ürününün tek bir kopyasýný tek bir donaným ürünü üzerinde kullanma hakký sunulmaktadýr.  Satýþ belgesi ayrýca, ileride gerçekleþtirilebilecek sürüm yükseltmelerinden faydalanmanýzý da saðlayacaktýr. Donaným satýþ belgesi ayrýca, bir Lenovo donaným ürünü üzerinde bulunan ya da bir Lenovo donaným ürünü ile birlikte verilen veya bir Lenovo donaným ürünü ile birlikte kullanýlmak üzere ücretsiz olarak temin edilen Yazýlým Ürünlerini kullanma hakkýna sahip olduðunuzu da kanýtlamaktadýr. 
+2. Lisans
+Yazýlým Ürününün mülkiyet ve telif haklarý Lenovo’ya veya Lenovo’nun tedarikçilerine aittir ve lisanslý olup, satýþý yapýlmamaktadýr.  Lenovo Size yasal yolardan temin ettiðiniz Yazýlým Ürününün münhasýr olmayan kullaným lisansýný vermektedir.
+Yazýlým Ürününü, a) Satýþ belgesinde belirtilen kullaným düzeyini geçmeyecek þekilde kullanabilir ve b) bu kullanýmý desteklemek amacý ile yedek kopyasý da dahil olmak üzere kopyalar çoðaltýp kurabilirsiniz. Ýþbu Anlaþmanýn hükümleri çoðalttýðýnýz her bir kopya için geçerli olacaktýr. Yazýlým Ürünü üzerinde bulunan telif hakký ve mülkiyet iþaretlerini çýkarmamanýz ve üzerlerinde deðiþiklik yapmamanýz gerekmektedir
+Yazýlým Ürününü bir sürüm yükseltmesi olarak temin ettiðiniz takdirde, bu sürüm yükseltmesini kurduktan sonra, Yazýlým Ürününün eski sürümünü artýk kullanamaz ya da üçüncü þahýslara devredemezsiniz.
+Yazýlým Ürününü kullanan herkesin (ister sizin bilgisayarýnýzdan ister baþka bir bilgisayardan) ürünü sadece sizin izninizle kullanmasýný ve iþbu Anlaþmanýn hükümlerine uymasýný saðlamanýz gerekmektedir.
+Yazýlým Ürününü a) iþbu Anlaþma hükümlerine aykýrý olarak kullanamaz, çoðaltamaz, üzerinde deðiþiklik yapamaz ya da daðýtamazsýnýz; b) yasalar uyarýnca sözleþmede feragat hükmü bulunmaksýzýn açýk bir þekilde izin verilen hallerin dýþýnda, ters mühendislik iþlemlerine tabi tutamaz ve Yazýlýmýn þifresini çözemezsiniz; ve 3) Yazýlým Ürününü alt lisansla kullandýramaz ve kiralayamazsýnýz.
+Ýþbu Anlaþma hükümlerine aykýrý davrandýðýnýz takdirde, Lenovo lisansýnýzý iptal etme hakkýný saklý tutmaktadýr. Lisansýnýzýn Lenovo tarafýndan iptal edilmesi halinde, Yazýlým ürünlerinin tüm kopyalarýný imha etmeniz gerekmektedir.  
+3. Devir
+Yazýlým Ürününü iþbu bölümde izin verilen haller dýþýnda üçüncü þahýslara devir ve temlik edemezsiniz.
+Donaným Ürünlerinin üzerinde bulunan Yazýlým Ürünlerinin lisanslarý, sadece üzerlerinde bulunduklarý ya da birlikte verildikleri Lenovo donaným ürünleri ile birlikte kullanma hakký saðlamaktadýr ve ancak ilgili Lenovo donaným ürünü ile birlikte devredilebilir. Ýlgili Lenovo donaným ürününden baðýmsýz olarak devredilmeleri mümkün deðildir.
+4. Üçüncü Þahýslara Ait Yazýlým Bileþenleri ve Ürünleri
+Bazý Lenovo Yazýlým Ürünlerinde, bunlarýn güncellemelerinde ve eklerinde, Microsoft Windows Preinstallation Environment da dahil olmak üzere, üçüncü þahýslara ait bileþenler bulunabilmektedir. Üçüncü þahýslara ait bu bileþenler size, iþbu Anlaþmadan farklý koþullarla sunulmaktadýr ve bu koþullar genellikle README (BENÝ OKU) adýndaki (ya da benzeri bir ad taþýyan) dosyalarda yer alan ayrý bir lisans anlaþmasýnda belirtilmektedir. Üçüncü þahýslara ait lisansýn koþullarý ve kullanýmýna yönelik kýsýtlamalar sadece ilgili parçalarýn kullanýmýna yöneliktir.    
+Lenovo tarafýndan sunulan Üçüncü Þahýslara ait Yazýlým Ürünlerinin iþbu Anlaþma kapsamýna dahil olmasý da mümkündür; ancak bu tür ürünlerin lisanslarý genellikle ilgili Üçüncü Þahýs tarafýndan kendi hüküm ve koþullarý çerçevesinde sunulmaktadýr.  Lisanslarý Lenovo tarafýndan saðlanmayan Üçüncü Þahýslara ait Yazýlým Ürünleri sadece ilgili lisans anlaþmalarýnýn hükümlerine tabidir.  
+5. Yazýlým Ürünlerinin Teknik Özellikleri  
+Yazýlým Ürününün teknik özellikleri ve kullaným ortamýna yönelik bilgiler, ilgili Yazýlým Ürünü ile birlikte verilen README (BENÝ OKU) adýndaki ya da benzeri bir ad taþýyan dosyalarda ya da Lenovo tarafýndan yayýnlanan diðer belgelerde yer almaktadýr.    
+6. Ücretler
+Yazýlým Ürününün ücreti, temin edilen kullaným düzeyine baðlý olarak farklýlýk göstermektedir. 
+Kullaným düzeyini artýrmak istediðiniz takdirde lütfen Lenovo ile ya da Yazýlým Ürününü temin ettiðiniz yerle irtibat kurunuz.   Ek bir ücret talep edilebilecektir. 
+Lenovo’nun net gelirleri üzerinde uygulananlar dýþýnda, Yazýlým Ürünü üzerinde yetkili makamlarca gümrük vergisi, vergi, harç ya da resim tarh edilmesi durumunda, söz konusu tutarý ödemeniz ya da bu vergilerden muaf olduðunuzu gösteren muafiyet belgelerini ibraz etmeniz gerekmektedir. Satýn aldýðýnýz tarihten itibaren Yazýlým Ürünü üzerine uygulanabilecek kiþisel varlýk vergisi sizin sorumluluðunuzda olacaktýr.
+7. Garanti Sunulmamasý
+Yazýlým Ürünü Size “OLDUÐU GÝBÝ” prensibiyle sunulmaktadýr.  
+YASAL DÜZENLEMELER GEREÐÝ KAPSAM DIÞINDA TUTULMASI MÜMKÜN OLMAYAN GARANTÝLERE TABÝ OLMAK KAYDIYLA, LENOVO, YAZILIM ÜRÜNÜNE VEYA VARSA TEKNÝK DESTEÐE YÖNELÝK OLARAK,  TÝCARETE ELVERÝÞLÝLÝK, BELÝRLÝ BÝR AMACA UYGUNLUK VE ÝHLAL KONULARINDA ZIMNÝ GARANTÝLER VE KOÞULLAR DA DAHÝL OLMAK ANCAK BUNLARLA SINIRLI KALMAMAK KAYDIYLA, AÇIK YA DA ZIMNÝ, HÝÇBÝR GARANTÝ YA DA KOÞUL BELÝRTMEMEKTEDÝR.
+Bu hüküm Lenovo’nun ürün geliþtiricileri ve tedarikçileri için de geçerlidir. 
+Lenovo’ya ait olmayan Yazýlým Ürünlerinin tedarikçileri ya da üreticileri kendi garantilerini sunabilir.
+Lenovo yazýlý olarak aksini belirtmediði takdirde teknik destek sunmamaktadýr.
+8. Sorumluluðun Sýnýrý
+Lenovo'nun kusurundan ya da sorumluluklar?n? yerine getirmemesinden kaynaklanan zarar?n?z? talep etmeye hak kazanabilece?iniz durumlar olabilir. Bu tür durumlar?n her birinde, Lenovo'dan zarar?n?z? tazmin etmeye neden olan hukuki dayanak her ne olursa olsun (esasl? ihlal, ihmal, yanl?? beyan ve di?er sözle?me ya da haks?z fiil iddialar? da dahil olmak üzere), yürürlükteki kanunlar ile feragat edilemeyen ya da s?n?rland?r?lamayan sorumluluklar haricinde ve ölçüsünde, Lenovo, u?rad???n?z do?rudan gerçek hasarlardan, yaln?zca ürün için ödedi?iniz ücretle s?n?rl? olmak ko?uluyla sorumludur.  Bu s?n?rlama, Lenovo'nun yasal olarak yükümlü oldu?u bedensel yaralanma (ölüm dahil) ve ta??nmaz mallar ile ki?isel maddi mallara verilen hasarlar için geçerli de?ildir. 
+Bu sýnýr ayrýca Lenovo'nun saðlayýcýlarý ve yetkili satýcýlarý için de geçerlidir. Bu, Lenovo'nun, Lenovo'nun saðlayýcýlarýnýn ve yetkili satýcýlarýnýn toplu olarak sorumlu olduklarý azami tutardýr.
+HÝÇBÝR KOÞULDA LENOVO, LENOVO'NUN SAÐLAYICILARI YA DA YETKÝLÝ SATICILARI, OLASILIKLARI ÖNCEDEN BÝLDÝRÝLMÝÞ OLSA DAHÝ AÞAÐIDAKÝ ZARARLARDAN SORUMLU OLMAZLAR: 1) ÜÇÜNCÜ KÝÞÝLERÝN ZARARLAR NEDENÝYLE SÝZE YÖNELTTÝÐÝ TAZMÝNAT TALEPLERÝNDEN; 2) VERÝLERÝNÝZDEKÝ KAYIP YA DA HASARLARDAN, YA DA 3) KAR KAYBI, GELÝR KAYBI, ÝTÝBAR KAYBI YA DA BEKLENEN TASARRUFUN KAYBI DA DAHÝL ÖZEL, ARIZÝ YA DA DOLAYLI ZARARLARDAN YA DA SONUÇTA ORTAYA ÇIKAN EKONOMÝK ZARARLARDAN. BAZI ÜLKELER YA DA HUKUK DÜZENLERÝ, ARIZÝ YA DA SONUÇTA ORTAYA ÇIKAN DOLAYLI ZARARLARIN KAPSAM DIÞI TUTULMASINA YA DA SINIRLANMASINA ÝZÝN VERMEZ, BU DURUMDA YUKARIDAKÝ SINIRLAMA YA DA KAPSAM DIÞI TUTMALAR SÝZÝN ÝÇÝN GEÇERLÝ OLMAYABÝLÝR. 
+9. Tüketici haklarý
+Ýþbu Anlaþmada yer alan hiçbir hüküm, sözleþme marifeti ile feragat edilemeyen ya da sýnýrlandýrýlamayan tüketici haklarýný etkilemez. Tabi olduðunuz yasalarca tanýnmýþ ve iþbu Anlaþma tarafýndan deðiþtirilmesi mümkün olmayan diðer tüketici haklarýna da sahip olabilirsiniz.  
+10. Genel
+a) Ýþbu Anlaþmanýn herhangi bir hükmünün geçersiz ya da uygulanamaz kýlýnmasý durumunda, iþbu Anlaþmanýn diðer hükümleri geçerliliklerini koruyacak ve yürürlükte kalacaktýr.  
+b) Ýlgili tüm ihracat ve ithalat mevzuatýna uymayý kabul etmektesiniz.  
+c) Ne Siz ne de Lenovo, yasalar uyarýnca sözleþmede feragat ya da sýnýrlama hükmü bulunmaksýzýn açýk bir þekilde izin verilen hallerin dýþýnda, ilgili olayýn ortaya çýktýðý tarihten itibaren iki (2)  yýl geçtikten sonra, iþbu Anlaþma kapsamýnda yasal bir iþlem yapabilirsiniz.  
+11. Anlaþmazlýklarýn Çözümlenmesi
+Ürününüzü Kamboçya, Endonezya, Filipinler, Vietnam ya da Sri Lanka'da satýn aldýysanýz, bu garanti konusunda ya da garantiyle baðlantýlý olarak doðan tüm anlaþmazlýklar, Singapur'da gerçekleþecek tahkim sonucunda karara baðlanýr ve bu garanti, kanunlar ihtilafý dikkate alýnmaksýzýn, Singapur kanunlarýna uygun olarak yürütülür, yorumlanýr ve uygulanýr. Ürününüzü Hindistan'da satýn aldýysanýz, garanti konusunda ya da garantiyle baðlantýlý olarak doðan tüm anlaþmazlýklar Hindistan'ýn Bangalore kentinde gerçekleþecek tahkim sonucunda karara baðlanýr. Singapur'daki tahkim, Singapur Uluslararasý Tahkim Merkezi'nin o sýrada yürürlükte olan Tahkim Kurallarýna ("SIAC Kurallarý") uygun olarak yürütülecektir. Hindistan'daki tahkim, Hindistan'da o sýrada yürürlükte olan kanunlara uygun olarak yürütülecektir. Hakem kararý, taraflarýn itiraz hakký olmaksýzýn nihai ve baðlayýcýdýr ve yazýlý olmak kaydýyla konuya iliþkin kararý ve mer'i kanun hükümlerinin uygulanmasýyla varýlan sonuçlarý belirtir.  Tüm tahkim muameleleri, sunulan belgeler de dahil olmak üzere, Ýngilizce olarak yürütülür ve bu muamelelerde bu garantinin Ýngilizce olarak hazýrlanan kopyasý diðer tüm dillerdeki kopyalardan öncelikli olarak uygulanýr. 
+
+
+ 
+
+
+

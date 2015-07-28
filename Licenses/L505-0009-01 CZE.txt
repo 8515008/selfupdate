@@ -1,0 +1,55 @@
+ Lenovo Licenèní smlouva
+L505-0009-01  04/2007
+Tato licenèní smlouva spoleènosti Lenovo (dále jen „smlouva“) se vztahuje na všechny softwarové produkty Lenovo, které si zakoupíte, a u pøedinstalované na jakémkoliv hardwarovém produktu Lenovo nebo v nìm zahrnuté, zakoupené samostatnì nebo staené z internetovıch stránek Lenovo nebo z internetovıch stránek tøetí strany schválenıch spoleèností Lenovo.  Platí rovnì pro všechny aktualizace nebo úpravy tìchto softwarovıch vırobkù.  
+Tato licenèní smlouva spoleènosti Lenovo je v jinıch jazycích k dispozici na adrese www.lenovo.com/license.  
+Spoleènost Lenovo vám poskytne na tento softwarovı produkt licenci pouze v pøípadì, e pøijmete tuto smlouvu.  Souhlas s touto smlouvou vyjádøíte kliknutím na pøijetí nebo instalací, staením èi pouíváním tohoto softwarového vırobku. 
+Pokud nesouhlasíte s tìmito podmínkami, softwarovı produkt (softwarové produkty) neinstalujte, nestahujte a nepouívejte. 
+* Pokud jste softwarovı produkt (softwarové produkty) zakoupili a zaplatili jste licenèní poplatek, vrate softwarovı produkt stranì, od ní jste produkt zakoupili, aby vám mohla bıt vrácena nebo pøipsána èástka, kterou jste zaplatili. 
+* Pokud jste získali softwarovı produkt pøedinstalovanı nebo vám byl poskytnut spolu s hardwarovım produktem Lenovo, hardwarovı produkt mùete nadále pouívat, nikoliv však softwarovı produkt øídící se touto smlouvou. 
+
+„Softwarovı vırobek“ zahrnuje poèítaèové softwarové programy (a u pøedinstalované nebo poskytnuté samostatnì) a pøidruené licencované materiály, jako napø. dokumentaci.   
+„Vy“ a „váš“ odkazuje buï na fyzickou osobu nebo jednotlivou právnickou osobu.
+1. Nárok
+Musíte si uschovat váš originál datovaného dokladu o nákupu, jako napø. úètenka, faktura nebo podobnı dokumentu, jako dùkaz o vašem právu na pouívání softwarového produktu.  Doklad o prodeji uvádí zakoupenou úroveò pouívání.  Pokud ádná úroveò pouívání není uvedena, mùete si nainstalovat a pouívat jednu kopii softwarového produktu na jednom hardwarovém produktu.  Váš doklad o prodeji pøedstavuje rovnì dùkaz vašeho nároku na pøípadné budoucí aktualizace. Pro softwarové produkty pøedinstalované na hardwarovém produktu spoleènosti Lenovo, zahrnuté v takovémto hardwarovém produktu nebo bezplatnì distribuované pro pouití na takovémto hardwarovém produktu, pøedstavuje doklad o nákupu vašeho hardwarového produktu rovnì dùkaz vašeho práva na pouívání softwarového produktu. 
+2. Licence
+Softwarovı produkt je majetkem spoleènosti Lenovo nebo jejího dodavatele a je poskytován na základì autorského práva a licence, nikoliv prodáván.  Spoleènost Lenovo vám poskytuje nevıhradní licenci na pouívání softwarového produktu, pokud jste jej získali zákonnım zpùsobem.
+Mùete a) pouívat softwarovı produkt do úrovnì uvedené na vaším dokladu o obchodní transakci pøevodu a b) vytváøet a instalovat kopie, vèetnì záloní kopie, pro podporu tohoto pouívání. Podmínky této smlouvy platí pro kadou kopii, kterou vytvoøíte. Nesmíte odstraòovat nebo mìnit ádné poznámky o autorském právu nebo popisky tıkající se vlastnictví.
+Pokud obdríte softwarovı produkt jako aktualizaci programu, po instalaci aktualizace nesmíte pouívat softwarovı produkt, ze kterého jste provedli aktualizaci, nebo jej pøevést na jinou stranu.
+Zajistíte, e všichni, kteøí pouívají softwarovı produkt (na základì místního nebo vzdáleného pøístupu), tak èiní pouze pro vaše autorizované pouití a dodrují podmínky této smlouvy.
+Nesmíte a) pouívat, kopírovat, upravovat nebo distribuovat softwarovı produkt s vıjimkou pøípadù uvedenıch v této smlouvì; b) zpìtnì kompletovat, zpìtnì sestavovat nebo jinak pøekládat softwarovı vırobek, s vıjimkou pøípadù vıslovnì povolenıch zákonem bez monosti smluvního zøeknutí se; nebo 3) poskytovat podlicence, pronajímat nebo najímat tento softwarovı produkt.
+Spoleènost Lenovo mùe ukonèit vaši licenci, pokud nebudete podmínky této smlouvy dodrovat. Pokud tak spoleènost Lenovo uèiní, musíte znièit všechny kopie tohoto softwarového produktu.  
+3. Pøevoditelnost
+Softwarovı vırobek nesmíte pøevést nebo postoupit na jakoukoliv jinou stranu, s vıjimkou pøípadù povolenıch v této èásti.
+Pøedinstalované softwarové produkty jsou licencované pouze pro pouití na hardwarovém produktu spoleènosti Lenovo, na nìj byly pøedinstalovány nebo zahrnuty, a mohou bıt pøevedeny pouze s tímto hardwarovım produktem spoleènosti Lenovo. Nesmí bıt pøevádìny nezávisle na hardwarovém produktu spoleènosti Lenovo.
+4. Softwarové komponenty a produkty tøetích stran
+Nìkteré softwarové produkty spoleènosti Lenovo a jejich budoucí aktualizace a úpravy mohou obsahovat komponenty tøetích stran, které mohou zahrnovat pøedinstalaèní prostøedí Microsoft Windows. Tyto komponenty tøetích stran jsou vám poskytovány na základì samostatnıch podmínek odlišnıch od této smlouvy (zpravidla je mono je nalézt v samostatné licenèní smlouvì nebo v souboru „README” (èi obdobného názvu). Pouívání tìchto komponentù se bude øídit vıhradnì licenèními podmínkami a omezeními pouití tøetích stran.    
+Softwarové produkty tøetích stran poskytnuté spoleèností Lenovo se mohou øídit podmínkami této smlouvy, zpravidla na nì však udìluje licencí tøetí strana na základì svıch vlastních podmínek.  Softwarové produkty tøetích stran, na nì neposkytuje licenci spoleènost Lenovo, podléhají vıhradnì podmínkám uvedenıch v jejich pøíslušnıch doprovodnıch licenèních smlouvách.  
+5. Specifikace softwarovıch produktù
+Specifikaci softwarovıch produktù a podrobné informace o operaèním prostøedí je mono nalézt v dokumentaci dodávané spolu se softwarovım produktem, pokud je k dispozici, jako napø. soubor „README“ (nebo podobného názvu) nebo dokumenty jinak publikované spoleèností Lenovo.  
+6. Poplatky
+Poplatky za softwarovı produkt závisí na zakoupené úrovni pouívání. 
+Pokud chcete zvıšit úroveò pouívání, kontaktujte spoleènost Lenovo nebo stranu, od ní jste softwarovı produkt získali.  Mohou bıt vyadovány dodateèné poplatky. 
+Pokud jakıkoliv úøad uvalí na softwarovı produkt jakékoliv clo, daò, odvod nebo poplatek, s vylouèením poplatkù na základì èistého pøíjmu spoleènosti Lenovo, potom souhlasíte, e uvedenou èástku uhradíte nebo pøedloíte dokumenty pro osvobození od této èástky. Jste zodpovìdní za veškeré osobní danì z majetku s ohledem na softwarovı produkt od data jeho zakoupení.
+7. Neexistence záruky
+Softwarovı vırobek kupujete „V SOUÈASNÉM STAVU“.  
+S VİHRADOU JAKİCHKOLIV ZÁKONNİM ZÁRUK, KTERÉ NEMOHOU BİT VYLOUÈENY, SPOLEÈNOST LENOVO NEPOSKYTUJE ÁDNÉ ZÁRUKY NEBO PODMÍNKY, A U VİSLOVNÉ NEBO IMPLIKOVANÉ, MIMO JINÉHO VÈETNÌ IMPLIKOVANİCH ZÁRUK NEBO PODMÍNEK TİKAJÍCÍCH SE PRODEJNOSTI, VHODNOSTI PRO KONKRÉTNÍ ÚÈEL A NEPORUŠOVÁNÍ PRÁVA S OHLEDEM NA SOFTWAROVİ PRODUKT NEBO PØÍPADNOU TECHNICKOU PODPORU.
+Toto vylouèení platí rovnì pro všechny projektanty a dodavatele spoleènosti Lenovo.
+Dodavatelé nebo vydavatelé softwarovıch vırobkù jinıch spoleèností ne Lenovo mohou poskytovat své vlastní záruky.
+Spoleènost Lenovo neposkytuje technickou podporu, pokud Lenovo neuvede písemnì jinak.
+8. Omezení odpovìdnosti
+Mohou nastat okolnosti, kdy Vám z dùvodu neplnìní závazku ze strany spoleènosti Lenovo èi z jiného dùvodu mùe vzniknout právo ádat na Lenovo náhradu škody. V kadém takovém pøípadì, bez ohledu na dùvod, na základì kterého máte právo ádat na Lenovo náhradu škody (vèetnì závaného porušení smlouvy, nedbalosti, uvedení v omyl èi jiného smluvního nebo mimosmluvního nároku) odpovídá Lenovo pouze za skuteènou škodu, která Vám vznikla, nepøesahující vıši èástky, kterou jste zaplatili za softwarovı produkt, vyjma pøípadu, kdy odpovìdnost nelze vylouèit s ohledem na platné právní pøedpisy nebo ji s ohledem na platné právní pøedpisy v urèitém rozsahu omezit.  Toto omezení se nevztahuje na škodu spojenou se zranìním osob (vèetnì úmrtí) a na škodu na movitém a nemovitém majetku, za ni odpovídá Lenovo na základì právních pøedpisù. 
+Toto omezení se vztahuje rovnì na dodavatele a prodejce Lenovo. Jedná se o horní hranici vıše škody, za kterou nese odpovìdnost Lenovo spoleènì se svımi dodavateli a prodejci.
+ANI KDY BYLI O TÉTO MONOSTI PØEDEM INFORMOVÁNI, NEJSOU LENOVO, JEJÍ DODAVATELÉ NEBO PRODEJCI ZA ÁDNİCH OKOLNOSTÍ ODPOVÌDNI ZA: 1) NÁROKY TØETÍCH STRAN VÙÈI VÁM NA NÁHRADU ŠKODY; 2) ZTRÁTU NEBO POŠKOZENÍ VAŠICH DAT; NEBO 3) ZVLÁŠTNÍ, NAHODILÉ ÈI NEPØÍMÉ ŠKODY NEBO ZA JAKÉKOLIV NÁSLEDNÉ EKONOMICKÉ ŠKODY, VÈETNÌ UŠLÉHO ZISKU, ZTRÁTY TREB, DOBRÉHO JMÉNA NEBO PØEDPOKLÁDANİCH ÚSPOR. NÌKTERÉ STÁTY NEBO JURISDIKCE NEUMOÒUJÍ VYLOUÈENÍ NEBO OMEZENÍ NAHODILİCH NEBO NÁSLEDNİCH ŠKOD, TAKE SE NA VÁS VİŠE UVEDENÉ OMEZENÍ NEBO VYLOUÈENÍ NEMUSÍ VZTAHOVAT. 
+9. Práva spotøebitelù
+Nic v této smlouvì obsaené neovlivòuje ádná zákonná práva spotøebitelù, která mohou bıt zrušena nebo omezena smlouvou. Na základì platnıch místních zákonù mùete mít další práva spotøebitelù, která tato smlouva nemùe zmìnit.  
+10. Obecná ustanovení
+a) V pøípadì, e jakékoliv ustanovení této smlouvy se stane neplatnım nebo nevynutitelnım, ostatní ustanovení této smlouvy zùstanou v platnosti a úèinnosti.  
+b) Souhlasíte, e dodríte všechny platné vıvozní a dovozní zákony a pøedpisy.  
+c) Ani vy, ani spoleènost Lenovo nepodá ádnou soudní alobu na základì této smlouvy více ne dva (2) roky po vzniku pøíèiny této aloby, pokud místní zákony nestanoví jinak bez monosti smluvního zøeknutí se nebo promlèení.  
+11. Øešení sporù
+Jestlie jste softwarovı produkt zakoupili v Kambodi, Indonésii, na Filipínách, ve Vietnamu nebo na Srí Lance, budou spory vyplıvající z tohoto softwarového produktu nebo s ním spojené s koneènou platností øešeny arbitráním øízením vedenım v Singapuru a tato smlouva se bude øídit, bude vykládána a vymáhána v souladu s právními pøedpisy Singapuru, a to bez ohledu na kolizi právních norem. Jestlie jste softwarovı produkt zakoupili v Indii, budou spory vyplıvající z tohoto softwarového produktu nebo ve spojení s ním s koneènou platnosti øešeny arbitráním øízením vedenım v Bangalore v Indii.  Arbitrání øízení v Singapuru bude probíhat v souladu s arbitráními pravidly SIAC (Singapore International Arbitration Center) (dále jen "pravidla SIAC") v té dobì úèinnımi. Arbitrání øízení v Indii bude probíhat v souladu s právními pøedpisy Indie v té dobì úèinnımi. Rozhodèí nález bude koneènı a závaznı pro zúèastnìné strany bez monosti odvolání, bude vyhotoven písemnì a bude obsahovat popis skutkového stavu a právní závìry.  Všechna arbitrání øízení se budou konat a veškerá dokumentace pøedkládaná v tìchto øízeních bude vypracována v anglickém jazyce a anglická jazyková verze této smlouvy pøevauje nad jakoukoli jinou jazykovou verzí v tìchto øízeních. 
+
+
+ 
+
+

@@ -1,0 +1,57 @@
+Lenovo  Licensaftale
+L505-0009-01  04/2007
+Denne Lenovo-licensaftale (kaldet “Aftalen”) gælder for ethvert Lenovo-Softwareprodukt, som Kunden anskaffer, uanset om det er forudinstalleret på eller leveres sammen med et Lenovo-hardwareprodukt, anskaffes særskilt, eller om Kunden downloader det fra et Lenovo-websted eller en tredjeparts websted, som Lenovo har godkendt. Aftalen gælder også for enhver opdatering eller programrettelse til Softwareprodukterne.  
+Denne Lenovo-licensaftale findes på flere sprog på www.lenovo.com/license. 
+Lenovo giver kun Kunden licens til Softwareprodukterne, hvis Kunden accepterer denne Aftale. Kunden accepterer Aftalens vilkår ved at klikke på "I accept" (jeg accepterer) for at acceptere Aftalen eller ved at installere, downloade eller bruge Softwareprodukterne. 
+Hvis Kunden ikke kan acceptere disse vilkår, må Kunden ikke installere, downloade eller bruge Softwareprodukterne. 
+* Hvis Kunden har anskaffet Softwareprodukterne og betalt et licensgebyr, skal Kunden returnere Softwareprodukterne til den part, som Kunden har anskaffet Softwareprodukterne hos, for at få refunderet eller krediteret det beløb, Kunden har betalt. 
+* Hvis Kunden har anskaffet Softwareprodukterne forudinstalleret på eller leveret sammen med et Lenovo-hardwareprodukt, må Kunden fortsætte med at bruge hardwareproduktet, men ikke de Softwareprodukter, der er omfattet af denne Aftale. 
+
+“Softwareprodukt” omfatter computersoftwareprogrammer (uanset om de er forudinstalleret eller leveres særskilt) samt tilhørende licensmateriale, f.eks. dokumentation. 
+“Kunden” og “Kundens” betyder en person eller en juridisk enhed.
+1. Adkomst
+Kunden skal beholde sit originale, daterede transaktionsdokument, f.eks. en kvittering, faktura eller lignende, som bevis på, at Kunden har ret til at bruge Softwareproduktet. Transaktionsdokumentet angiver det brugsniveau, Kunden har købt. Hvis der ikke er angivet noget brugsniveau, må Kunden installere og bruge én kopi af Softwareproduktet på ét hardwareprodukt. Kundens transaktionsdokument er også bevis på, at Kunden er berettiget til at modtage eventuelle, senere opgraderinger. For så vidt angår Softwareprodukter, der er forudinstalleret på, leveres sammen med eller distribueres gratis til brug på et Lenovo-hardwareprodukt, er Kundens hardwaretransaktionsdokument samtidig bevis på, at Kunden har ret til at bruge Softwareproduktet. 
+2. Licens
+Softwareproduktet ejes af Lenovo eller en Lenovo-leverandør. Det er omfattet af ophavsret og gives i licens, det sælges ikke. Lenovo giver Kunden en ikke-eksklusiv licens til at bruge Softwareproduktet, når Kunden anskaffer det på lovlig vis.
+Kunden må a) bruge Softwareproduktet op til det brugsniveau, der fremgår af Kundens transaktionsdokument, og b) tage og installere kopier, inklusive en sikkerhedskopi, i forbindelse med en sådan brug. Aftalens vilkår gælder hver enkelt kopi, Kunden tager. Kunden må ikke fjerne eller ændre copyrighterklæringer eller andre erklæringer om ejendomsrettigheder.
+Hvis Kunden anskaffer Softwareproduktet som en programopgradering, må Kunden ikke bruge det Softwareprodukt, som Kunden opgraderer fra, eller overføre det til en anden part, når Kunden har installeret opgraderingen.
+Kunden skal sikre, at enhver, der bruger Softwareproduktet, hvad enten det sker lokalt eller eksternt, udelukkende gør det i overensstemmelse med Kundens autoriserede brug og i henhold til vilkårene i denne Aftale.
+Kunden må ikke a) bruge, kopiere, ændre eller distribuere Softwareproduktet på anden måde end foreskrevet i denne Aftale, b) tilbageoversætte (reverse assemble, reverse compile) eller på anden måde oversætte Softwareproduktet, medmindre andet gælder ifølge ufravigelige lovbestemmelser, eller 3) udleje, lease eller give Softwareproduktet i underlicens.
+Lenovo kan ophæve licensen, hvis Kunden misligholder vilkårene i denne Aftale. Hvis Lenovo ophæver licensen, skal Kunden destruere alle kopier af Softwareproduktet. 
+3. Overdragelse
+Kunden må ikke overføre eller overdrage Softwareproduktet til en anden part, medmindre det tillades i henhold til denne paragraf.
+Forudinstallerede Softwareprodukter licenseres udelukkende til brug på det Lenovo-hardwareprodukt, som de er forudinstalleret på eller leveret sammen med, og de må kun overdrages sammen med det pågældende Lenovo-hardwareprodukt. De må ikke overdrages uafhængigt af Lenovo-hardwareproduktet.
+4. Tredjepartssoftwarekomponenter og -produkter
+Visse af Lenovos Softwareprodukter og fremtidige opdateringer og programrettelser kan indeholde tredjepartskomponenter, som kan omfatte Microsoft Windows Preinstallation Environment. Sådanne tredjepartskomponenter leveres til Kunden i henhold til særlige vilkår, som er forskellige fra vilkårene i denne Aftale, og som normalt fremgår af en særskilt licensaftale eller af en README-fil (eller en fil med et lignende navn). Det er alene tredjepartens licensvilkår og brugsbegrænsninger, der gælder for brugen af sådanne komponenter. 
+Tredjepartssoftwareprodukter, som Lenovo leverer, kan være underlagt denne Aftales vilkår, men licenseres normalt af Tredjeparten i henhold til dennes egne vilkår. Tredjepartssoftwareprodukter, som Lenovo ikke licenserer, er udelukkende underlagt vilkårene i de licensaftaler, der hører til tredjepartssoftwareprodukterne. 
+5. Softwareproduktspecifikationer 
+Softwareprodukternes specifikationer og driftsmiljøoplysninger findes i den dokumentation, som eventuelt leveres sammen med Softwareprodukterne, f.eks. en README-fil eller en fil med et lignende navn, eller som Lenovo offentliggør på anden måde. 
+6. Betaling
+Betalingen for Softwareproduktet baseres på det brugsniveau, Kunden har anskaffet. 
+Hvis Kunden ønsker at øge brugsniveauet, skal Kunden kontakte Lenovo eller den part, som Kunden har købt Softwareproduktet hos. Lenovo kan beregne sig ekstrabetaling. 
+Hvis en offentlig myndighed lægger skatter, afgifter eller anden form for beskatning på Softwareproduktet, er Kunden indforstået med at betale det angivne beløb eller dokumentere fritagelse herfor over for Lenovo. 
+
+7. Ingen garanti
+Softwareproduktet leveres, som det er og forefindes. 
+Bortset fra, hvad der måtte følge af ufravigelige lovbestemmelser, påtager Lenovo sig ingen forpligtelser uanset eventuelle forventninger til Softwareproduktets eller den tekniske supports egnethed eller anvendelse.
+Denne fraskrivelse gælder også Lenovos udviklere og leverandører.
+Leverandører eller udgivere af ikke-Lenovo-Softwareprodukter yder muligvis deres egne garantier.
+Lenovo yder ikke teknisk support, medmindre Lenovo angiver andet skriftligt.
+8. Ansvarsbegrænsning
+Der kan opstå situationer, hvor Kunden på grund af fejl fra Lenovos side eller andre ansvarspådragende forhold er berettiget til at få tilkendt erstatning fra Lenovo. I sådanne tilfælde er Lenovos erstatningsansvar, uanset ansvarsgrundlaget, herunder uagtsomhed, dog bortset fra og i det omfang, ansvaret ikke kan fraskrives eller begrænses ifølge ufravigelige lovbestemmelser, begrænset til beløbet af den direkte skade, som Kunden har lidt, op til det beløb, som Kunden har betalt for Softwareproduktet. Denne beløbsgrænse gælder ikke erstatning for personskade (herunder død) samt skade på fast ejendom og løsøre, som er ansvarspådragende for Lenovo. 
+Denne beløbsgrænse gælder også for Lenovos leverandører og forhandlere. Beløbsgrænsen angiver Lenovos og Lenovos leverandørers og forhandleres samlede, maksimale ansvar.
+Lenovo og Lenovos leverandører eller forhandlere fraskriver sig ethvert ansvar for følgende, selv om de er blevet gjort bekendt med muligheden for sådanne tab: 1) Erstatningskrav rejst mod Kunden af tredjepart, 2) tab af eller skade på Kundens data eller 3) driftstab, tabt avance og andre indirekte tab eller følgeskader, herunder tabt fortjeneste, indtjening eller goodwill eller tab af forventede besparelser. Visse landes lovgivning tillader ikke ansvarsfraskrivelse for indirekte tab eller følgeskader. Ovenfor nævnte ansvarsbegrænsninger gælder derfor muligvis ikke Kunden.
+9. Forbrugerrettigheder
+Intet i denne Aftale skal ændre ved lovbestemte forbrugerrettigheder, der ikke kan fraskrives eller begrænses ved aftale. Kunden kan have yderligere forbrugerrettigheder i henhold til gældende lovgivning, som denne Aftale ikke kan ændre. 
+10. Generelt 
+a) Hvis en bestemmelse i denne Aftale er ugyldig eller ikke kan håndhæves, vil resten af bestemmelserne i Aftalen fortsat være gældende.  
+b) Kunden er indforstået med at overholde gældende love og bestemmelser vedrørende eksport og import.  
+c) Hverken Kunden eller Lenovo kan rejse krav i henhold til denne Aftale mere end to år efter, at årsagen til kravet er opstået, medmindre andet gælder ifølge ufravigelig lovbestemmelse. 
+11. Tvister
+Hvis Kunden har anskaffet Softwareproduktet i Cambodja, Indonesien, Filippinerne, Vietnam eller Sri Lanka, skal uenigheder, der måtte opstå på grund af eller i forbindelse med dette Softwareprodukt, underkastes endelig og bindende voldgift i Singapore, og denne Aftale er underlagt, fortolkes og håndhæves i overensstemmelse med gældende lovgivning i Singapore uden hensyn til international privatret. Hvis Kunden har anskaffet Softwareproduktet i Indien, skal uenigheder, der måtte opstå på grund af eller i forbindelse med dette Softwareprodukt, underkastes endelig og bindende voldgift i Bangalore i Indien. Voldgiften i Singapore holdes i overensstemmelse med de gældende SIAC-regler (SIAC Rules - Arbitration Rules of Singapore International Arbitration Center). Voldgiften i Indien holdes i overensstemmelse med gældende lovgivning i Indien. Voldgiftskendelsen er endelig og bindende for parterne uden mulighed for appel og skal foreligge skriftligt og angive domstolens resultater og konklusioner. Al voldgiftsbehandling skal foregå på engelsk, og alle dokumenter, der fremlægges i behandlingen, skal være på engelsk, og den engelsksprogede version af denne Aftale har i behandlingen forrang for versioner på alle andre sprog. 
+
+
+
+
+
+

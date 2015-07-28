@@ -1,0 +1,57 @@
+Lenovo  Licensavtal
+L505-0009-01 04/2007
+Detta licensavtal med Lenovo (“Avtalet”) är tillämpligt på alla Lenovos Mjukvaruprodukter som Du förvärvar, oavsett om de är förinstallerade i eller inkluderade med någon av Lenovos hårdvaruprodukter, förvärvade separat eller nerladdade av Dig från Lenovos webbplats eller tredje mans webbplats som godkänts av Lenovo.  Det är också tillämpligt på alla uppdateringar eller delar till dessa Mjukvaruprodukter.  
+Detta Lenovo licensavtal finns tillgängligt på andra språk på www.lenovo.com/license.  
+Lenovo kommer att licensiera Mjukvaruprodukten till Dig enbart om Du accepterar detta Avtal.  Du samtycker till villkoren i detta Avtal genom att klicka för att acceptera det eller genom att installera, ladda ner eller använda Mjukvaruprodukten. 
+Om Du inte samtycker till dessa villkor, undvik då att installera, ladda ner eller använda Mjukvaruprodukten/-erna.  
+* Om Du köpt Mjukvaruprodukten/-erna och betalat licensavgift, returnera Mjukvaruprodukten till den part från vilken Du förvärvade den för att få återbetalning eller kreditering motsvarande det belopp som Du betalat.  
+* Om Du förvärvat Mjukvaruprodukten/-erna i eller tillsammans med Lenovos hårdvaruprodukt, kan Du fortsätta att använda hårdvaruprodukten men inte Mjukvaruprodukten/-erna som täcks av detta Avtal. 
+
+“Mjukvaruprodukt” omfattar mjukvaruprogram till dator (oavsett om det är förinstallerat eller tillhandahålls separat) och relaterat licensmaterial såsom dokumentation.   
+”Du/Dig” och ”Din” refererar antingen till en individuell person eller till en enstaka juridisk person.
+1. Berättigande
+Du måste behålla Dina daterade säljdokument i original, såsom kvitto, faktura eller liknande dokument, som bevis på Din rätt att använda Mjukvaruprodukten.  Överlåtelsedokumentet specificerar vilken användarnivå som förvärvats.  Om ingen användarnivå finns specificerad får Du installera och använda en enda kopia av Mjukvaruprodukten på en hårdvaruprodukt.  Ditt överlåtelsedokument tillhandahåller också bevis på Din rätt till framtida uppgraderingar, om sådana finns. För Mjukvaruprodukter som förinstallerats, inkluderats eller levererats till ingen kostnad för användning i en Lenovo hårdvaruprodukt är dokument över säljtransaktionen för Din hårdvaruprodukt också bevis på Din rätt att använda Mjukvaruprodukten. 
+2. Licens.
+Mjukvaruprodukten ägs av Lenovo eller Lenovos leverantör och är upphovsrättskyddad, upplåts med licens men säljs inte.  Lenovo beviljar Dig en licens utan ensamrätt att använda Mjukvaruprodukten då Du förvärvar den lagligen.
+Du får a) använda Mjukvaruprodukten upp till den användningsnivå som anges i ditt överlåtelsedokument och b) installera kopior, inklusive backupkopior, till stöd för sådan användning.  Villkoren i detta Avtal är tillämpliga på alla kopior Du gör. Du får inte avlägsna eller ändra någon uppgift om upphovsrätt eller inskription om ägarskap.
+Om Du förvärvar Mjukvaruprodukten som en programuppdatering får Du efter att Du installerat uppgraderingen inte använda Mjukvaruprodukten från vilken Du uppgraderat eller överfört den till en annan part.
+Du ska säkerställa att alla som använder Mjukvaruprodukten (förvärvad antingen lokalt eller på långt håll) gör detta enbart för Din godkända användning och uppfyller alla villkoren i detta Avtal.
+Du får inte a) använda, kopiera, ändra eller lämna ut Mjukvaruprodukten på annat sätt än som förutses i detta Avtal; b) montera ner, plocka isär eller på annat sätt översätta Mjukvaruprodukten utom på sätt som uttryckligen tillåts enligt lag och utan möjlighet till avtalsfriskrivning; eller c) underlicensiera, hyra ut eller leasa Mjukvaruprodukten.
+Lenovo kan säga upp Din licens om Du underlåter att uppfylla villkoren i detta Avtal. Om Lenovo gör det, måste Du förstöra alla kopior av Mjukvaruprodukten.  
+3. Överlåtbarhet
+Du får inte överföra eller överlåta Mjukvaruprodukten till någon annan part utom då det tillåts i detta stycke.
+Förinstallerade Mjukvaruprodukter licensieras för användning enbart i Lenovos hårdvaruprodukter i vilka de är förinstallerade eller inkluderade och får överföras enbart med sådan hårdvaruprodukt från Lenovo.  De får inte överföras oberoende av Lenovos hårdvaruprodukt.
+4. Tredje parts mjukvarukomponenter och produkter
+Vissa av Lenovos Mjukvaruprodukter och framtida uppdateringar och delar kan innehålla komponenter från tredje part som kan inkludera förinstallerad Windowsmiljö från Microsoft.  Dessa komponenter från tredje part levereras till Dig under separate villkor skilda från detta Avtal som normalt återfinns i ett separat licensavtal eller i en "README" fil (eller fil med liknande rubrik). Tredje parts licensvillkor och användarrestriktioner styr enbart användningen av sådana komponenter.    
+Tredje parts Mjukvaruprodukter som tillhandahålls av Lenovo kan regleras av villkor enligt detta Avtal men licensieras normalt av tredje part enligt dennes egna villkor.  Tredje parts Mjukvaruprodukter som inte licensieras av Lenovo är föremål enbart för villkoren i det medföljande licensavtalet.    
+5. Specifikationer av Mjukvaruprodukter
+Specifikationer för Mjukvaruprodukter och specificerad information om operativmiljö kan återfinnas i medföljande dokumentation till Mjukvaruprodukten, om sådan finns, såsom en ”README” fil (eller fil med liknande rubrik), eller dokumentation på annat sätt publicerad av Lenovo.  
+6. Avgifter
+Avgifter för Mjukvaruprodukten baseras på den användarnivå som förvärvas. 
+Om Du önskar höja Din användarnivå, kontakta Lenovo eller tredje part från vilken Du förvärvat Mjukvaruprodukten.  Extra avgifter kan förekomma. 
+Om någon myndighet lägger på en tullavgift, skatt, pålaga eller avgift, exklusive de som baseras på Lenovos nettointäkt, på Mjukvaruprodukten, då samtycker Du till att betala det specificerade beloppet eller tillhandahålla undantagsdokumentation. Du är ansvarig för alla personliga egendomsskatter för Mjukvaruprodukten från det datum Du förvärvar den.
+7. Ingen garanti
+Mjukvaruprodukten/-erna levereras till Dig "I BEFINTLIGT SKICK".  
+MED FÖRBEHÅLL FÖR EVENTUELLA REGLERADE GARANTIER SOM INTE KAN EXKLUDERAS LÄMNAR LENOVO INGA GARANTIER ELLER VILLKOR, UTTRYCKLIGA ELLER INDIREKTA, INKLUSIVE MEN INTE BEGRÄNSAT TILL INDIREKTA GARANTIER ELLER VILLKOR AVSEENDE SÄLJBARHET, LÄMPLIGHET FÖR ETT SPECIELLT SYFTE OCH ICKE-INTRÅNG, VAD GÄLLER MJUKVARUPRODUKTEN ELLER TEKNISK SUPPORT, OM SÅDAN FINNS.
+Undantaget gäller också alla Lenovos utvecklare och leverantörer.
+Leverantörer eller utgivare av icke-Lenovo Mjukvaruprodukter kan tillhandahålla sina egna garantier. 
+Lenovo tillhandahåller inte teknisk support såvida Lenovo inte skriftligen specificerar annat. 
+8. Begränsning av ansvar
+Omständigheter kan uppstå där Du på grund av underlåtenhet från Lenovos sida eller annat ansvar blir berättigad att få skadestånd från Lenovo. Vid varje sådan omständighet, oavsett den grund på vilken Du är berättigad att begära skadestånd från Lenovo (inklusive väsentligt överträdande, försumlighet, oriktig uppgift eller annat krav på grund av avtal eller otillåten handling), utom och i den utsträckning som ansvar inte kan avsägas eller begränsas enligt gällande lag, är Lenovo ansvarigt för högst det belopp som motsvarar de verkliga direkta skador som Du lidit och upp till det belopp som Du betalat för Mjukvaruprodukten.  Denna begränsning är inte tillämplig vid kroppsskada (inklusive död) och skada på fast egendom och materiell personlig egendom för vilken Lenovo enligt lag hålls ansvarig. 
+Denna begränsning är också tillämplig på Lenovos leverantörer och återförsäljare. Det är maximalt vad Lenovos leverantörer och återförsäljare tillsammans är ansvariga för.
+LENOVO, DESS LEVERANTÖRER ELLER ÅTERFÖRSÄLJARE ÄR UNDER INGA OMSTÄNDIGHETER ANSVARIGA FÖR NÅGOT AV FÖLJANDE ÄVEN OM DET INFORMERAS OM DESS MÖJLIGHET: 1) TREDJE MANS KRAV PÅ SKADESTÅND RIKTADE TILL DIG; 2) FÖRLUST AV ELLER SKADA PÅ DINA DATA; ELLER 3) SPECIELLA, TILLFÄLLIGA ELLER INDIREKTA SKADOR ELLER FÖR NÅGRA EKONOMISKA FÖLJDSKADOR, INKLUSIVE FÖRLUST AV FÖRTJÄNST, AFFÄRSINTÄKTER, GOODWILL ELLER FÖRVÄNTAT SPARANDE.  VISSA STATER ELLER JURISDIKTIONER TILLÅTER INTE UTESLUTANDE ELLER BEGRÄNSNING AV TILLFÄLLIGA SKADOR ELLER FÖLJDSKADOR VARFÖR OVANSTÅENDE BEGRÄNSNING ELLER UTESLUTNING EVENTUELLT INTE ÄR TILLÄMPLIGA. 
+9. Konsumenträtt
+Ingenting I detta Avtal påverkar förordnade konsumenträttigheter som inte kan avsägas eller begränsas i avtal. Du kan eventuellt ha extra konsumenträttigheter enligt gällande lokala lagar som detta Avtal inte kan ändra.  
+10. Allmänt
+a) I händelse av att någon bestämmelse i detta Avtal befinns vara ogiltig eller icke verkställbar ska övriga bestämmelser i detta Avtal äga kraft och vara giltiga.  
+b) Du samtycker till att uppfylla alla tillämpliga export- och importlagar och –förordningar.  
+c) Varken Du eller Lenovo ska vidta rättsliga åtgärder enligt detta Avtal mer än två (2) år efter att orsaken till händelsen uppstod såvida inte annat föreskrivs enligt lokal lag utan möjlighet till avtalsfriskrivning eller begränsning.   
+11. Lösande av tvist
+Om Du förvärvat Mjukvaruprodukten i Kambodja, Indonesien, Philippinerna, Vietnam eller Sri Lanka ska tvister som härrör från eller uppstår i samband med denna Mjukvaruprodukt regleras slutgiltigt genom skiljedomsförfarande i Singapore och detta Avtal ska vara tillämpligt, tolkas och verkställas utan hänsyn till lagkonflikt. Om Du förvärvat Mjukvaruprodukten i Indien, ska tvister som härrör från eller uppstår i samband med denna Mjukvaruprodukt regleras genom skiljedomsförfarande i Bangalore, Indien.  Skiljedomsförfarande I Singapore ska hållas i enlighet med gällande skiljedomsregler från Singapore International Arbitration Center (”SIAC Rules”).  Skiljedomsförfarande i Indien ska hållas i enlighet med då gällande lagar i Indien.  Skiljemannadom ska vara slutgiltig och bindande för parterna utan överklagande och ska vara skriftlig och ange faktiska omständigheter och rättsliga slutsatser.  Alla skiljedomsförfaranden ska genomföras på engelska språket, inklusive alla dokument som läggs fram vid sådana förfaranden, och den engelska versionen av detta Avtal har företräde framför alla andra språkliga versioner vid sådana förfaranden.  
+
+
+ 
+ 
+
+
+

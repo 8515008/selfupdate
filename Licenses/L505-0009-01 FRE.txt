@@ -1,0 +1,55 @@
+Lenovo Contrat de licence 
+ L505-0009-01 (04/2007)
+
+Le présent Contrat de licence (l'« Contrat») s'applique à chaque Logiciel Lenovo dont Vous faites l'acquisition, que celui-ci soit préinstallé sur du matériel, qu'il soit livré avec ce matériel, qu'il soit acheté séparément ou que Vous l'ayez Vous-même téléchargé depuis un site Web Lenovo ou un site Web tiers agréé par Lenovo.  Il s’applique également à toutes les mises à jour ou correctifs de ces Logiciels.   
+Le présent Contrat de licence est disponible dans d'autres langues sur www.lenovo.com/license. 
+Lenovo Vous accordera une licence pour ce Logiciel uniquement si Vous acceptez le présent Contrat.  Le fait de cliquer sur le bouton correspondant à l'acceptation du présent Contrat, d'effectuer l'installation du Logiciel, de le télécharger ou de l'utiliser signifie que Vous acceptez les conditions du présent Contrat. 
+Si Vous n’acceptez pas ces conditions, n’installez aucun des Logiciels, ne les téléchargez pas et ne les utilisez pas. 
+* Si Vous avez acheté les Logiciels et payé une licence, retournez-les au revendeur auprès duquel Vous les avez achetés pour en obtenir le remboursement intégral ou un avoir correspondant au montant que Vous avez payé. 
+* Si Vous avez acheté les Logiciels préinstallés sur du matériel Lenovo ou livrés avec ce matériel, Vous pouvez continuer à utiliser le matériel mais pas le Logiciel faisant l'objet du présent Contrat. 
+
+Le « Logiciel » comprend des programmes informatiques (installés ou fournis séparément) et du matériel annexe soumis à licence, tel que de la documentation.   
+« Vous », « Votre » et « Vos » désignent soit une personne physique, soit une personne morale.
+1. Droit
+Vous devez conserver la preuve d’achat originale, telle qu’un reçu, une facture ou tout autre document de même nature attestant que Vous détenez le droit d’utiliser le Logiciel. La preuve d’achat mentionne le niveau d’utilisation qui Vous a été accordé.  Si celui-ci n'est pas précisé, Vous ne pouvez installer et utiliser qu'une seule copie du Logiciel sur un seul matériel.  Votre preuve d’achat Vous ouvre droit à bénéficier d’éventuelles mises à jour. Pour les Logiciels préinstallés sur du matériel Lenovo, livrés avec celui-ci ou distribués gratuitement en vue de l’utilisation dudit matériel, la preuve d’achat atteste de Vos droits à utiliser le Logiciel. 
+2. Licence
+Le Logiciel est la propriété de Lenovo ou d’un fournisseur de Lenovo ; il est soumis au droit d’auteur et concédé sous licence, non vendu.  Lenovo Vous accorde une licence d'utilisation du Logiciel non-exclusive lorsque Vous faites l'acquisition de celle-ci.
+Vous pouvez a) utiliser le Logiciel jusqu’au niveau d’utilisation précisé sur Votre preuve d’achat et b) réaliser et installer des copies (y compris une copie de sauvegarde) dans le cadre de cette utilisation. Les conditions du présent Contrat s'appliqueront à chaque copie que Vous ferez. Vous ne pouvez pas retirer ou modifier les mentions de droits d’auteur ni les clauses de propriété intellectuelle.
+Si Vous achetez le Logiciel pour effectuer une mise à jour, Vous ne pourrez plus utiliser le logiciel sur lequel cette mise à jour s’est appliquée ni le transférer à un tiers une fois la mise à jour effectuée.
+Vous devrez Vous assurer que quiconque utilisant le Logiciel (en accès local ou distant) le fasse à l'intérieur du strict cadre d'utilisation qui Vous a été accordé et qu'il respecte les conditions du présent Contrat.
+Vous ne devez pas a) utiliser, copier, modifier ou distribuer le Logiciel, excepté dans certains cas prévus dans le présent Contrat ; b) désassembler, décompiler ou traduire de quelque façon que ce soit le Logiciel, à moins d'y être autorisé par une disposition légale d'ordre public ; ou 3) concéder des sous-licences ou donner le Logiciel en location sous quelque forme que ce soit.
+Lenovo peut résilier Votre licence si Vous ne respectez pas les conditions du présent Contrat. Le cas échéant, Vous devez détruire toutes les copies du Logiciel.  
+3. Transférabilité
+Vous ne devez ni transférer, ni affecter le Logiciel à un tiers, sauf permission expresse dans cette section.
+Les Logiciels préinstallés sont concédés sous licence pour une utilisation exclusivement réservée au matériel Lenovo sur lesquels ils ont été préalablement installés ou avec lesquels ils ont été livrés. Ils ne sont transférables qu'avec ce même matériel. Ces logiciels ne peuvent pas être transférés indépendamment du matériel Lenovo.
+4. Composants et produits logiciels tiers
+Certains Logiciels Lenovo, leurs futures mises à jours et leurs futurs correctifs peuvent inclure des composants tiers, tel quel'environnement de préinstallation de Microsoft Windows. Ces composants tiers Vous sont fournis sous des conditions générales différentes de celles du présent Contrat. Celles-ci apparaissent généralement dans un contrat de licence distinct ou dans un fichier LISEZMOI (ou portant un titre similaire). Les conditions et les limitations d’utilisation de la licence des composants tiers ne s’appliquent qu’à l’utilisation de ceux-ci.    
+Les produits tiers fournis par Lenovo peuvent être soumis aux conditions du présent Contrat mais sont généralement concédés sous licence par le tiers sous ses propres conditions.  Les logiciels tiers qui ne sont pas concédés sous licence par Lenovo sont soumis uniquement aux conditions du Contrat  de licence qui les accompagnent.  
+5. Caractéristiques du logiciel  
+Les caractéristiques du logiciel et les informations sur le système d'exploitation spécifié figurent dans la documentation qui accompagne le Logiciel, le cas échéant. Celle-ci peut se présenter sous forme d'un fichier LISEZMOI (ou portant un titre similaire) ou d'une documentation imprimée éditée par Lenovo.  
+6. Frais
+Les frais afférents au Logiciel dépendent du niveau d'utilisation acquis. 
+Si Vous souhaitez passer à un niveau supérieur, contactez Lenovo ou le revendeur auprès duquel Vous avez acheté le Logiciel.   Des frais supplémentaires peuvent s’appliquer. 
+Si une autorité soumet le Logiciel à des droits de douane, taxes, prélèvements ou frais, à l'exclusion de ceux basés sur le revenu net de Lenovo, Vous devez soit Vous acquitter du montant spécifié, soit présenter une preuve d'exemption de ces frais supplémentaires. Vous êtes redevable des taxes éventuelles sur la propriété privée pouvant s’appliquer au Logiciel à partir de la date d’achat de celui-ci. 
+7. Exclusion de garantie
+Le ou les Logiciels Vous sont fournis « TELS QUELS ».  
+SOUS RÉSERVE DE TOUTE GARANTIE LÉGALE QUI NE PEUT ÊTRE EXCLUE, LENOVO NE FOURNIT AUCUNE GARANTIE OU CONDITION, QU'ELLE SOIT EXPLICITE OU IMPLICITE, Y COMPRIS ET DE FAÇON NON LIMITATIVE, TOUTE GARANTIE OU CONDITION IMPLICITE  DE QUALITÉ MARCHANDE, D'APTITUDE À L'EXÉCUTION D'UN TRAVAIL DONNÉ, ET TOUTE GARANTIE EN NON CONTREFAÇON CONCERNANT LE LOGICIEL OU LE CAS ECHEANT L'ASSISTANCE TECHNIQUE.
+L'exclusion de garantie s'applique également aux développeurs et aux fournisseurs de Lenovo.
+Les fournisseurs ou les éditeurs de logiciels autres que les Logiciels Lenovo peuvent fournir leur propre garantie.
+Lenovo ne fournit aucune assistance technique, à moins que Lenovo ne le mentionne explicitement par écrit.
+8. Limitation de responsabilité
+Dans certaines circonstances, Vous pouvez réclamer des dommages-intérêts à Lenovo en cas de manquement de la part de Lenovo ou d'une autre forme de responsabilité. Dans chacun des cas, quel que soit le fondement de l'action que Vous pourriez engager contre Lenovo (notamment pour violation d'une clause essentielle de ce Contrat, négligence, tromperie ou autre faute contractuelle), la responsabilité de Lenovo pour tout dommage direct et réel que Vous subissez sera limitée au montant de la redevance payée pour le Logiciel faisant l'objet de Votre réclamation, sauf si et dans la mesure où la législation en vigueur ne permet pas de limiter cette responsabilité ou de s'y soustraire.  Cette limitation ne s'applique pas aux dommages corporels (y compris ceux entraînant le décès) et aux dommages causés aux biens personnels, mobiliers et immobiliers pour lesquels Lenovo est responsable selon la loi. 
+Cette limite s'applique également aux fournisseurs et revendeurs de Lenovo. C'est le maximum pour lequel Lenovo, ses fournisseurs et ses revendeurs sont collectivement responsables.
+LENOVO, SES FOURNISSEURS OU SES DISTRIBUTEURS  NE PEUVENT EN AUCUN CAS ÊTRE TENUS RESPONSABLES DES PRÉJUDICES OU DOMMAGES SUIVANTS ET CE, MÊME S’ILS ONT ÉTÉ INFORMÉS DE LEUR POSSIBLE SURVENANCE : 1) PLAINTES DE TIERS À VOTRE ENCONTRE POUR DOMMAGES ; 2) PERTE OU DÉTÉRIORATION DE VOS DONNÉES ; OU 3) DOMMAGES SPÉCIAUX, ACCESSOIRES OU INDIRECTS, OU TOUT PRÉJUDICE ÉCONOMIQUE, NOTAMMENT LES PERTES DE PROFITS, DE CHIFFRE D'AFFAIRES, DE RECETTES, DE CLIENTÈLE OU D'ÉCONOMIES ESCOMPTÉES. CERTAINS ÉTATS OU CERTAINES LÉGISLATIONS N’AUTORISENT PAS LA LIMITATION OU L’EXCLUSION DE PRÉJUDICES ACCESSOIRES OU INDIRECTS, AUQUEL CAS L’EXCLUSION OU LA LIMITATION QUI PRÉCÈDE NE VOUS SERA PAS APPLICABLE. 
+9. Droits des consommateurs
+Aucune clause du présent Contrat ne porte atteinte aux droits statutaires des consommateurs non susceptibles d'être réfutés ou limités par contrat. En tant que consommateur et sous d'autres législations locales en vigueur, il se peut que vous ayez des droits que le Contrat ne peut pas modifier.  
+10. Autres dispositions 
+1. Dans le cas où l'une des clauses du présent Contrat serait tenue pour non valide ou inapplicable, les autres dispositions du Contrat resteraient intégralement en vigueur.
+2. Vous acceptez de vous conformer à toutes les lois et réglementations applicables en matière d'importation et d'exportation.
+3. Ni Vous-même, ni Lenovo ne pourra intenter une action contre l’autre plus de deux (2) ans après l’apparition de son fait générateur, sauf disposition légale contraire d’ordre public.  
+11. Résolution des conflits
+Si vous avez acheté le Logiciel au Cambodge, en Indonésie, aux Philippines, au Vietnam ou au Sri Lanka, tout conflit résultant du ou relatif à ce Logiciel sera résolu par arbitrage à Singapour et ce Contrat sera régi, interprété et appliqué en accord avec les lois en vigueur à Singapour, indépendamment des conflits de lois.  Si vous avez acheté le Logiciel en Inde, tout conflit résultant du ou relatif à ce Logiciel sera résolu par arbitrage en dernier ressort à Bangalore, en Inde. À Singapour, l'arbitrage se déroulera selon les règles d'arbitrage en vigueur du centre d'arbitrage SIAC ou Singapore International Arbitration Center (les « Règles du SIAC »). L'arbitrage en Inde se déroulera selon la législation en vigueur dans ce pays. La sentence arbitrale s'appliquera aux parties de manière irrévocable et sans appel, et sera rendue par écrit et mentionnera les attendus et les conclusions.  Les procédures d'arbitrage seront menées intégralement en langue anglaise, et les documents présentés dans ces procédures devront être également rédigés en anglais. La version anglaise du présent Contrat prévaut sur toutes les autres versions dans le cadre desdites procédures. 
+
+
+L505-0009-00 04/2007  			1 of 3
+

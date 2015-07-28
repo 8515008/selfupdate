@@ -1,0 +1,55 @@
+﻿Lenovo Ugovor o licenci
+L505-0009-01  04/2007
+Ovaj se Lenovo Ugovor o licenci (“Ugovor”) odnosi na svaki kupljeni Lenovo Softverski proizvod, bilo da je ukljuèen u paket s Lenovo hardverskim proizvodom ili prethodno instaliran na njemu, nabavljen zasebno, ili s Vaše strane preuzet s internetskih stranica tvrtke Lenovo ili neke druge internetske stranice odobrene od strane tvrtke Lenovo.  Takoðer se odnosi na sve nadogradnje i programske zakrpe za ove Softverske proizvode.  
+Ovaj je Ugovor o Lenovo licenci na raspolaganju i na drugim jezicima na stranici www.lenovo.com/license.  
+Lenovo æe Vam ovaj Softverski proizvod licencirati samo uz Vaše prihvaæanje ovoga Ugovora.  Na uvjete ovoga Ugovora pristajete pritiskom miša ili samom instalacijom, preuzimanjem ili uporabom Softverskog proizvoda. 
+Ako ne pristajete na ove uvjete, ne instalirajte, ne preuzimajte i ne koristite Softverski(e) proizvod(e). 
+• Ako ste Softverski(e) proizvod(e) kupili i za njega/njih platili naknadu za licencu, povrat novca ili kredit za plaæeni iznos možete dobiti ako Softverski proizvod vratite osobi od koje ste ga kupili. 
+• Ako ste Softverski(e) proizvod(e) nabavili predinstaliran(e) ili kao dio Lenovo hardverskog proizvoda, i dalje imate pravo na korištenje hardverskog proizvoda, ali ne i Softverskog(ih) proizvoda kojeg pokriva ovaj Ugovor. 
+
+“Softverski proizvod” ukljuèuje raèunalne softverske programe (predinstalirane ili zasebne) i pridružene licencirane materijale, primjerice dokumentaciju.   
+“Vi” i “Vaše” se odnosi ili na pojedinca ili na jednu pravnu osobu.
+1. Prava
+Dužni ste saèuvati original Vašeg kupoprodajnog dokumenta, primjerice raèun ili slièni dokument, kao dokaz o Vašem pravu na uporabu Softverskog proizvoda. Kupoprodajni dokument sadrži i dozvoljenu razinu uporabe.  Ako razina uporabe nije navedena, imate pravo na instaliranje i uporabu jednog primjerka Softverskog proizvoda na jednom hardverskom proizvodu.  U Vašem se kupoprodajnom dokumentu takoðer navodi Vaše pravo na dobivanje buduæih nadogradnji, ukoliko one postoje. Za Softverske proizvode ukljuèene u paket s Lenovo hardverskim proizvodom, predinstalirane na njemu, ili besplatno distribuirane za njega, Vaš kupoprodajni dokument za hardverski proizvod takoðer je dokaz o Vašem pravu na korištenje Softverskog proizvoda. 
+2. Licenca
+Softverski proizvod je u vlasništvu tvrtke Lenovo ili dobavljaèa tvrtke Lenovo, zaštiæen je autorskim pravom i licencira se a ne prodaje.  Lenovo Vam daje neiskljuèivu licencu na uporabu Softverskog proizvoda kada isti nabavite legalnim putem.
+Možete a) Softverski proizvod koristiti do dozvoljene razine uporabe koja je navedena na Vašem kupoprodajnom dokumentu i b) napraviti i instalirati kopije, ukljuèujuæi i rezervnu kopiju, za podršku navedenoj uporabi. Uvjeti ovoga Ugovora važeæi su za svaku kopiju koju napravite. Ne smijete ukloniti ili izmijeniti nikakve navode o autorskom pravu ili oznake o vlasništvu.
+Ako Softverski proizvod nabavite kao programsku nadogradnju, nakon što nadogradnju instalirate, Softverski proizvod na koji se nadogradnja odnosi ne smijete koristiti niti ga prenijeti na drugu osobu.
+Dužni ste voditi raèuna da svatko tko koristi Softverski proizvod (lokalnim ili udaljenim pristupom) to èini iskljuèivo za Vašu ovlaštenu uporabu i da postupa u skladu s uvjetima ovog Ugovora.
+Ne smijete a) koristiti, kopirati, mijenjati ili distribuirati Softverski proizvod osim na naèin dopušten ovim Ugovorom; b) povratno asemblirati, rekompajlirati ili na drugi naèin izmijeniti Softverski proizvod osim na naèin posebno odreðen zakonom, bez moguænosti odricanja od prava; ili 3) Softverski proizvod dalje licencirati, iznajmiti ili dati u zakup.
+Lenovo Vašu licencu može otkazati ako ne ispunite uvjete ovoga Ugovora. Ako Lenovo tako uèini, obvezni ste uništiti sve primjerke Softverskog proizvoda.  
+3. Prenosivost
+Softverski proizvod ne smijete prenijeti niti asignirati bilo kojoj drugoj osobi, osim kako je dopušteno u ovom odjeljku.
+Predinstalirani Softverski proizvodi licencirani su za uporabu iskljuèivo na onom Lenovo hardverskom proizvodu na kojem su instalirani ili uz koji su bili ukljuèeni te se mogu prenijeti samo s tim Lenovo hardverskim proizvodom. Ne mogu se prenositi neovisno o Lenovo hardverskom proizvodu.
+4. Softverske komponente i proizvodi treæih osoba
+Neki Softverski proizvodi Lenovo i buduæe nadogradnje i zakrpe mogu ukljuèivati i komponente treæih osoba, koje pak mogu sadržavati pred-instalacijsko okruženje Microsoft Windowsa. Te komponente treæih osoba su Vam dostupne prema zasebnim opæim uvjetima, drugaèijima od onih u ovom Ugovoru; obièno se nalaze u zasebnom ugovoru o licenci ili u “README” (ili slièno nazvanom) dokumentu. Licenèni uvjeti i ogranièenja uporabe treæe osobe iskljuèivo su nadležni za uporabu tih komponenti.    
+Softverski proizvodi treæih osoba koje pruža Lenovo možda su podložni uvjetima ovog Ugovora ali obièno se licenciraju od strane treæe osobe prema vlastitim uvjetima.  Softverski proizvodi treæih osoba koje Lenovo ne licencira podložni su iskljuèivo uvjetima njihovih primjenjivih licenènih ugovora.  
+5. Opis Softverskog proizvoda
+Opis, tj. specifikacije Softverskog proizvoda i navedene informacije o operativnom okruženju nalaze se u dokumentaciji uz Softverski proizvod, ako isti postoje, primjerice u “README” ili slièno nazvanom dokumentu, ili su na drugi naèin izdani od strane tvrtke Lenovo.  
+6. Naknade
+Novèane naknade za Softverski proizvod temelje se na nabavljenoj razini uporabe. 
+Ako želite preæi na višu razinu uporabe, kontaktirajte Lenovo ili osobu od koje ste kupili Softverski proizvod.  Možda æete trebati platiti dodatne naknade. 
+Ako bilo koja nadležna institucija Softverski proizvod optereti dodatnim davanjima, porezima, nametima ili naknadama, osim onih koje se temelje na neto prihodu tvrtke Lenovo, dužni ste platiti navedeni iznos ili podnijeti dokumentaciju o izuzeæu. Vi ste od trenutka kupnje odgovorni za sve osobne poreze na imovinu za Softverski proizvod.
+7. Odsutnost jamstva
+Softverski proizvod(i) Vam se nudi “TAKAV KAKAV JEST.”  
+UVJETOVANO SVIM ZAKONSKIM JAMSTVIMA KOJA SE NE MOGU ISKLJUÈITI, LENOVO NE DAJE NIKAKVA JAMSTVA ILI UVJETE, IZRIÈITE ILI IMPLICITNE, UKLJUÈUJUÆI ALI NE I OGRANIÈENO NA IMPLICIRANA JAMSTVA ILI UVJETE PRODAJE, PRIKLADNOSTI ZA ODREÐENU NAMJENU TE NEPOŠTIVANJA, U SVEZI SA SOFTVERSKIM PROIZVODOM ILI TEHNIÈKOM PODŠKOM, UKOLIKO ISTA POSTOJI.
+Iskljuèenje se takoðer odnosi na sve razvojno osoblje i dobavljaèe tvrtke Lenovo.
+Dobavljaèi ili izdavaèi Softverskih proizvoda koji ne pripadaju tvrtki Lenovo mogu odrediti vlastite garancije.
+Lenovo ne pruža tehnièku podršku, osim ako Lenovo drugaèije ne odredi pisanim putem.
+8. Ogranièenje od odgovornosti
+Okolnosti mogu nastati u kojima Vi, zbog greške tvrtke Lenovo ili neke druge odgovornosti, steknete pravo na nadoknadu štete od strane tvrtke Lenovo. U svakom takvom slučaju, bez obzira na temelje slijedom kojih ste stekli pravo na traženje nadoknade štete od strane tvrtke Lenovo (uključujući bitnu povredu, nemarnost, pogrešan prikaz, ili neku drugu tražbinu slijedom ugovora ili štetne radnje), osim u slučaju i u mjeri u kojoj se tražbina ne može odbaciti ili ograničiti važećim zakonima, Lenovo ne odgovara za iznos veći od iznosa stvarnih neposrednih šteta prouzročenih Vama, do iznosa koji ste platili za Softverski proizvod.  Ovo se ograničenje ne odnosi na štete uslijed tjelesnih ozljeda (uključujući smrt) i štete na nekretninama i materijalnoj osobnoj imovini za koju Lenovo po zakonu odgovara. 
+Ogranièenje se takoðer odnosi na dobavljaèe i preprodavaèe tvrtke Lenovo. To je krajnji domet kolektivne odgovornost tvrtke Lenovo, njegovih dobavljaèa i preprodavaèa.
+LENOVO, NJEGOVI DOBAVLJAÈI I PREPRODAVAÈI NI U KOM SLUÈAJU NISU ODGOVORNI ZA NIŽE NAVEDENE STAVKE, ÈAK NI U SLUÈAJU DA SU OBAVIJEŠTENI O MOGUÆNOSTI ISTIH: 1) ZA TUŽBE TREÆIH OSOBA PROTIV VAS ZA NAKNADU ŠTETE; 2) ZA GUBITAK ILI ŠTETE NA VAŠIM PODACIMA; ILI 3) ZA POSEBNE, SLUÈAJNE ILI NEIZRAVNE ŠTETE ILI BILO KAKVE EKONOMSKI POSLJEDIÈNE ŠTETE, UKLJUÈUJUÆI GUBITAK PROFITA, POSLOVNOG PRIHODA, DOBROG UGLEDA  ILI PREDVIÐENIH UŠTEDA. NEKE DRŽAVE ILI MJESNE NADLEŽNOSTI NE DOPUŠTAJU ISKLJUÈENJE ILI OGRANIÈENJE OD SLUÈAJNE ILI POSLJEDIÈNE ŠTETE, PA SE GORE NAVEDENA OGRANIÈENJA MOŽDA NE ODNOSE NA VAS. 
+9. Prava potrošaèa
+Ništa u ovom Ugovoru ne utjeèe ni na koje statutarno pravo potrošaèa koje se ne može iskljuèiti ili ogranièiti putem ugovora. Moguæe je da prema važeæim lokalnim zakonima imate dodatna potrošaèka prava koja ovaj Ugovor ne mijenja.  
+10. Opæenito
+a) U sluèaju da se bilo koja odredba ovog Ugovora smatra nevažeæom ili neizvršivom, ostale odredbe ovog Ugovora ostaju na punoj snazi i djelotvornosti.  
+b) Prihvaæate udovoljiti svim primjenjivim uvozno-izvoznim zakonima i propisima.  
+c) Ni Vi ni Lenovo neæete poduzeti pravne radnje slijedom ovog Ugovora nakon isteka dvije (2) ili više godina nakon nastanka razloga za pravne radnje, osim ako je drugaèije odreðeno lokalnim zakonom bez moguænosti iskljuèenja ili ogranièenja putem ugovora.  
+11. Rješavanje sporova
+Ako ste Softverski proizvod nabavili u Kamboði, Indoneziji, Filipinima, Vijetnamu ili Šri Lanki, sporovi koji proizaðu iz ili su u svezi s ovim Softverskim proizvodom konaèno se rješavaju arbitražom u Singapuru a nadležnost, tumaèenje i izvršavanje ovog Ugovora odvija se u skladu sa zakonima Singapura, bez obzira na sukob zakona. Ako ste Softverski proizvod nabavili u Indiji, sporovi koji proizaðu iz ili su u svezi s ovim Softverskim proizvodom konaèno se rješavaju arbitražom u Bangaloru, Indija. Arbitraže u Singapuru odvijaju se u skladu s Pravilima arbitraže Singapurskog meðunarodnog arbitražnog centra ("Pravila SIAC") važeæima u tom trenutku. Arbitraže u Indiji odvijaju se u skladu sa zakonima Indije važeæima u tom trenutku. Arbitražna odluka je konaèna i obvezujuæa za stranke, bez moguænosti na žalbu, donosi se pisanim putem i izlaže èinjenièno stanje i zakonske zakljuèke.  Svi arbitražni postupci provode se, ukljuèujuæi i svu dokumentaciju koja se predstavlja u tim postupcima, na engleskom jeziku; u tim postupcima engleska verzija ovog Ugovora prevladava nad verzijom na bilo kojem drugom jeziku. 
+
+
+ 
+
+

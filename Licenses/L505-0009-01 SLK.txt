@@ -1,0 +1,57 @@
+﻿  Licenčná zmluva 
+L505-0009-01  04/2007
+Táto licenčná zmluva so spoločnosťou Lenovo (ďalej len ako zmluva) sa vzťahuje na každý softvérový produkt Lenovo, ktorý ste nadobudli, či už ako predinštalovaný alebo ako súčasť hardvérového produktu Lenovo, nadobudli samostatne, alebo ktorý ste prevzali z webovej lokality spoločnosti Lenovo alebo z webovej lokality tretej strany schválenej spoločnosťou Lenovo.  Taktiež sa vzťahuje na všetky aktualizácie alebo opravy týchto softvérových produktov.  
+Táto licenčná zmluva so spoločnosťou Lenovo je dostupná v ďalších jazykoch na adrese www.lenovo.com/license.  
+Spoločnosť Lenovo vám poskytne licenciu na softvérový produkt len v prípade, že budete súhlasiť s touto zmluvou.  Súhlas s ustanoveniami tejto zmluvy vyjadríte kliknutím na tlačidlo súhlasu alebo nainštalovaním, prevzatím alebo používaním softvérového produktu. 
+Ak nesúhlasíte s týmito ustanoveniami, neinštalujte, nepreberajte ani nepoužívajte softvérové produkty. 
+• Ak ste nadobudli softvérové produkty a zaplatili licenčný poplatok, vráťte softvérový produkt spoločnosti/osobe, od ktorej ste ho získali, a žiadajte vrátenie zaplatenej sumy. 
+• Ak ste nadobudli softvérové produkty predinštalované alebo poskytnuté s hardvérovým produktom Lenovo, môžete naďalej používať hardvérový produkt, nie však softvérové produkty, na ktoré sa vzťahuje táto zmluva. 
+
+Softvérový produkt zahŕňa počítačové softvérové programy (či už predinštalované alebo poskytnuté samostatne) a príslušné materiály, na ktoré sa vzťahuje licencia, ako je napríklad dokumentácia.   
+Vy a Váš sa vzťahuje buď na jednotlivú osobu alebo na jednu právnickú osobu.
+1. Nárok
+Musíte uchovať originálny datovaný transakčný doklad potvrdzujúci predaj, ako sú napríklad pokladničný blok, faktúra alebo podobný dokument, ako dôkaz vášho práva na používanie softvérového produktu. Transakčný doklad určuje nadobudnutú úroveň používania.  Ak nie je určená žiadna úroveň používania, môžete nainštalovať a používať jednu kópiu softvérového produktu na jednom hardvérovom produkte.  Transakčný doklad taktiež poskytuje dôkaz o vašom nároku na prípadné budúce inovácie. Pre softvérové produkty predinštalované, nachádzajúce sa, alebo distribuované na bezplatné používanie v hardvérovom produkte Lenovo je transakčný doklad o predaji hardvérového produktu taktiež dôkazom o vašom práve na používanie softvérového produktu. 
+2. Licencia
+Softvérový produkt vlastní spoločnosť Lenovo alebo dodávateľ spoločnosti Lenovo, vzťahujú sa naň autorské práva, udeľuje sa naň licencia, nepredáva sa.  Spoločnosť Lenovo vám udeľuje neexkluzívnu licenciu na používanie softvérového produktu v prípade, že ste ho nadobudli legálne.
+Môžete a) používať softvérový produkt až do úrovne používania určenej na vašom predajnom doklade a b) zhotovovať a inštalovať kópie, vrátane záložnej kópie, na podporu takéhoto používania. Ustanovenia tejto zmluvy sa vzťahujú na každú kópiu, ktorú zhotovíte. Nesmiete odstrániť ani pozmeniť žiadne informácie o autorských právach ani nápisy o vlastníctve.
+Ak ste softvérový produkt nadobudli ako inováciu programu, po inštalácii inovácie nesmiete používať softvérový produkt, ktorý ste inovovali, ani ho odovzdať inej strane.
+Ste zodpovední za to, že každý, kto používa softvérový produkt (a získal ho lokálne alebo vzdialene), tak koná len pre vaše oprávnené používanie a koná v súlade s ustanoveniami tejto zmluvy.
+Nesmiete a) používať, kopírovať, upravovať ani distribuovať softvérový produkt iným spôsobom, ako je uvedené v tejto zmluve; b) spätne zostavovať, spätne kompilovať ani inak transformovať softvérový produkt okrem prípadov špecificky povolených zákonom bez možnosti zmluvného zrieknutia sa práva, ani c) sublicencovať, najímať ani prenajímať softvérový produkt.
+Spoločnosť Lenovo môže vašu licenciu ukončiť v prípade, že neplníte podmienky tejto zmluvy. V takom prípade musíte zničiť všetky kópie softvérového produktu.  
+3. Prenositeľnosť
+Nesmiete preniesť softvérový produkt na inú stranu ani ho prideliť inej strane okrem prípadov povolených v tejto časti.
+Na predinštalované softvérové produkty sa udeľuje licencia len na používanie na hardvérovom produkte Lenovo, na ktorom sú predinštalované, alebo v ktorom sa nachádzajú, a môžu sa prenášať len s daným hardvérovým produktom Lenovo. Nemôžu sa prenášať nezávisle od hardvérového produktu Lenovo.
+4. Softvérové súčasti a produkty tretích strán
+Niektoré softvérové produkty a budúce aktualizácie a opravy Lenovo môžu obsahovať komponenty tretích strán, ktoré môžu obsahovať nástroj Microsoft Windows Preinstallation Environment. Tieto súčasti tretích strán sú vám poskytnuté na základe samostatných podmienok a ustanovení odlišných od tejto zmluvy, ktoré sa spravidla nachádzajú v samostatnej licenčnej zmluve alebo v súbore README (alebo s podobným názvom). Podmienky a obmedzenia používania tretích strán sa vzťahujú výlučne na dané súčasti.    
+Na softvérové produkty tretích strán poskytované spoločnosťou Lenovo sa môžu vzťahovať ustanovenia tejto zmluvy, ale licenciu zvyčajne udeľuje tretia strana na základe vlastných podmienok a ustanovení.  Na softvérové produkty tretích strán, na ktoré neudeľuje licenciu spoločnosť Lenovo, sa vzťahujú výlučne ustanovenia ich sprievodných licenčných zmlúv.  
+5. Špecifikácie softvérového produktu  
+Špecifikácie softvérového produktu a informácie pre špecifikovaný operačný systém sa môžu nachádzať v sprievodnej dokumentácii k softvérovému produktu, napríklad v súbore README (alebo súbore s podobným názvom), alebo inak publikované spoločnosťou Lenovo.  
+6. Poplatky
+Poplatky za softvérový produkt sú založené na nadobudnutej úrovni používania. 
+Ak chcete zvýšiť úroveň používania, obráťte sa na spoločnosť Lenovo alebo na spoločnosť/osobu, od ktorej ste softvérový produkt nadobudli.  Môžu sa na to vzťahovať ďalšie poplatky. 
+Ak nejaký orgán uvalí na softvérový produkt clo, daň, odvod alebo poplatok, okrem takých, ktoré sa odvíjajú od čistého zisku spoločnosti Lenovo, súhlasíte s tým, že zaplatíte určenú sumu alebo poskytnete dokumentáciu o daňovej úľave. Od dátumu nadobudnutia softvérového produktu ste zodpovední za platenie prípadných daní z majetku vzťahujúcich sa na softvérový produkt.
+7. Žiadna záruka
+Softvérové produkty sa vám poskytujú „tak, ako sú“.  
+OKREM PRÍPADNÝCH ZÁKONNÝCH ZÁRUK, KTORÝM SA NEDÁ VYHNÚŤ, SPOLOČNOSŤ LENOVO NEPOSKYTUJE ŽIADNE ZÁRUKY ANI PODMIENKY, VÝSLOVNÉ ANI IMPLIKOVANÉ, VRÁTANE, NIE VŠAK VÝLUČNE, IMPLIKOVANÝCH ZÁRUK ALEBO PODMIENOK OBCHODOVATEĽNOSTI, VHODNOSTI NA KONKRÉTNY ÚČEL A DODRŽIAVANIA PREDPISOV VO VZŤAHU K SOFTVÉROVÉMU PRODUKTU A PRÍPADNEJ TECHNICKEJ PODPORE.
+Výnimka sa taktiež vzťahuje aj na vývojárov a dodávateľov spoločnosti Lenovo.
+Dodávatelia alebo vydavatelia softvérových produktov, ktoré nie sú od spoločnosti Lenovo, môžu poskytovať vlastné záruky.
+Spoločnosť Lenovo neposkytuje technickú podporu, ak spoločnosť Lenovo písomne neuvádza inak.
+8. Obmedzenie zodpovednosti
+Môžu nastať okolnosti, na základe ktorých, z dôvodu nedodržania povinnosti zo strany spoločnosti Lenovo alebo inej zodpovednosti, môžete mať nárok na vymáhanie odškodnenia od spoločnosti Lenovo. V každom takom prípade, bez ohľadu na to, na akom základe máte nárok na vymáhanie odškodnenia od spoločnosti Lenovo (vrátane podstatného porušenia povinností, zanedbania, nesprávnej interpretácie, alebo iného nároku vyplývajúceho zo zmluvy alebo z porušenia práva), okrem prípadov a v rozsahu, v ktorom sa zodpovednosti nedá zriecť alebo sa nedá obmedziť príslušnými zákonmi, je spoločnosť Lenovo zodpovedná najviac za sumu skutočných priamych škôd, ktoré ste utŕžili vy, maximálne do sumy, ktorú ste zaplatili za softvérový produkt.  Toto obmedzenie sa nevzťahuje na odškodnenie za zranenie (vrátane usmrtenia) a škodu na nehnuteľnom a hmotnom osobnom majetku, za ktorý je spoločnosť Lenovo zodpovedná zo zákona. 
+Toto obmedzenie sa taktiež vzťahuje na dodávateľov a predajcov spoločnosti Lenovo. Je to maximum, za ktoré sú spoločnosť Lenovo, jej dodávatelia a predajcovia kolektívne zodpovední.
+ZA ŽIADNYCH OKOLNOSTÍ NIE SÚ SPOLOČNOSŤ LENOVO, JEJ DODÁVATELIA ANI PREDAJCOVIA ZODPOVEDNÍ ZA ŽIADNE Z NASLEDUJÚCICH SKUTOČNOSTÍ, A TO ANI V PRÍPADE, ŽE BOLI UPOZORNENÍ NA ICH MOŽNOSŤ: 1) NÁROKY TRETÍCH STRÁN VOČI VÁM ZA ŠKODY; 2) STRATA ALEBO POŠKODENIE VAŠICH ÚDAJOV; ALEBO 3) ŠPECIÁLNE, NÁHODNÉ ALEBO NEPRIAME ŠKODY ALEBO HOSPODÁRSKE NÁSLEDNÉ ŠKODY, VRÁTANE UŠLÉHO ZISKU, VÝNOSOV Z HOSPODÁRSKEJ ČINNOSTI, DOBRÉHO MENA ALEBO OČAKÁVANÝCH ÚSPOR. NAKOĽKO NIEKTORÉ ŠTÁTY ALEBO PRÁVNE PORIADKY NEDOVOĽUJÚ VYLÚČENIE ALEBO OBMEDZENIE ZODPOVEDNOSTI ZA NÁHODNÉ ALEBO NÁSLEDNÉ ŠKODY, UVEDENÉ OBMEDZENIE SA NA VÁS NEMUSÍ VZŤAHOVAŤ. 
+9. Spotrebiteľské práva
+Nič v tejto zmluve nemá vplyv na žiadne zákonné spotrebiteľské práva, ktorých sa nedá zmluvne zriecť alebo ktoré sa nedajú zmluvne obmedziť. Môžete mať ďalšie spotrebiteľské práva vyplývajúce z príslušných miestnych zákonov, ktoré sa nedajú zmeniť touto zmluvou.  
+10. Všeobecné 
+a) V prípade, že ktorékoľvek ustanovenie tejto zmluvy bude vyhlásené za neplatné alebo právne nevymáhateľné, ostatné ustanovenia tejto zmluvy zostávajú v úplnej platnosti a účinnosti.  
+b) Súhlasíte s tým, že budete dodržiavať všetky príslušné zákony a predpisy týkajúce sa vývozu a dovozu.  
+c) Ani vy, ani spoločnosť Lenovo nepodnikne žiadne právne kroky na základe tejto zmluvy neskôr, ako dva (2) roky po tom, ako nastal dôvod pre takéto právne kroky, ak to miestne zákony neustanovujú inak bez možnosti zmluvného zrieknutia sa alebo obmedzenia.  
+11. Riešenie sporov
+Ak ste softvérový produkt nadobudli v Kambodži, Indonézii, na Filipínach, vo Vietname alebo na Srí Lanke, spory vyplývajúce z tohto softvérového produktu alebo v súvislosti s ním sa budú riešiť arbitrážou konanou v Singapure a táto zmluva sa bude riadiť, interpretovať a uplatňovať v súlade so zákonmi štátu Singapur, bez ohľadu na kolíziu zákonov. Ak ste softvérový produkt nadobudli v Indii, spory spory vyplývajúce z tohto softvérového produktu alebo v súvislosti s ním sa budú riešiť arbitrážou konanou v Bangalore v Indii. Arbitráž v Singapure sa bude konať v súlade s práve platnými pravidlami arbitráže singapurského medzinárodného arbitrážneho centra („Pravidlá SIAC“). Arbitráž v Indii sa bude konať v súlade s práve platnými zákonmi Indie. Arbitrážny výrok bude konečný a záväzný pre obe strany bez možnosti odvolania, bude písomný a bude uvádzať zistený skutkový stav a právne závery.  Všetky arbitrážne konania sa budú viesť v anglickom jazyku, vrátane všetkých dokumentov predkladaných pri takýchto konaniach, a verzia tejto zmluvy v anglickom jazyku má v takomto konaní prednosť pred ostatnými jazykovými verziami. 
+
+
+ 
+
+
+
+

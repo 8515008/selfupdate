@@ -1,0 +1,57 @@
+Lenovo  Accordo di Licenza 
+L505-0009-01  04/2007
+Il presente Accordo di Licenza Lenovo (“Accordo”)  si applica a tutti i Prodotti Software Lenovo acquistati dall’Utente, che siano preinstallati o inclusi in un prodotto hardware,  acquistati separatamente,  scaricati dall’Utente da un sito Web Lenovo o da siti di terzi autorizzati da Lenovo.  E’ valido anche per tutti gli aggiornamenti e correzioni temporanee relativi a questi Prodotti Software.  
+Il presente Accordo di Licenza Lenovo  è disponibile in altre lingue su www.lenovo.com/license.  
+Lenovo concederà all’Utente la licenza del Prodotto Software solo dietro accettazione del presente Accordo.  L’Utente acconsente alle condizioni del presente Accordo facendo click per l’accettazione o installando, scaricando o usando il Prodotto Software. 
+Qualora non si desideri accettare queste condizioni,  si prega di non installare, scaricare o usare il/i Prodotto/i Software. 
+* Se il/i Prodotto/i Software è/sono stato/i acquisito/i  pagando un diritto di licenza, restituire il Prodotto Software al venditore per ottenere il rimborso o un accredito per l’importo pagato. 
+* Se il/i Prodotto/i Software è/sono stato/i acquisito/i preinstallato/i o fornito/i insieme ad un prodotto hardware Lenovo, è possibile continuare ad usare il prodotto hardware, ma non il/i Prodotto/i software di cui al presente Accordo. 
+
+Il Prodotto Software comprende programmi di software per  computer (sia preinstallati che forniti separatamente) e il relativo materiale fornito in licenza quale la documentazione.   
+"L’Utente" e "Suo" si riferiscono sia a persone fisiche che a singole persone giuridiche.
+1. Autorizzazione
+L’Utente è tenuto a conservare il documento di vendita originale provvisto di data, quali ricevuta, fattura o documento similare come prova del proprio diritto all’uso del Prodott Software. Il documento di transazione specifica il livello d’utilizzo acquisito.  In mancanza di specifica di livello d’utilizzo, l’Utente è autorizzato ad installare ed utilizzare una singola copia del Prodott Software su un singolo prodotto hardware.  Il documento di transazione contiene anche evidenza dell’eleggibilita’ dell’Utente ai futuri aggiornamenti, qualora esistenti. Per i Prodotti Software preinstallati, inclusi o distribuiti gratuitamente per l’uso sul prodotto hardware Lenovo, il documento di transazione di vendita del prodotto hardware attesta il diritto dell’Utente all’uso del Prodotto Software. 
+2. Licenza
+Il Prodotto Software è di proprietà di Lenovo o di un fornitore della stessa, è protetto da diritti d’autore e concesso in licenza, non venduto.  Lenovo concede all’Utente una licenza non esclusiva per l’uso del Prodotto Software se acquistato dallo stesso a norma di legge.
+L'L’Utente è autorizzato a) ad usare il Prodotto Software fino al livello d’utilizzo specificato nel suo documento di transazione e b) a fare ed installare copie, inclusa una copia di backup a supporto di tale uso. Le condizioni del presente Accordo sono valide per ogni copia fatta dall’Utente. L’Utente non è autorizzato a rimuovere o alterare avvisi di copyright o di proprietà.
+Se il Prodotto Software è acquistato come upgrade di programma, ad avvenuta installazione dell’upgrade, l’Utente non è autorizzato ad usare il prodotto software da cui ha effettuato l’upgrade né a trasferirlo a terzi.
+L’Utente accerterà che chiunque utilizzi il Prodotto Software (accesso locale e remoto) lo faccia unicamente per l’uso autorizzato dall’Utente e in conformità ai termini e alle condizioni del presente Accordo.
+L’Utente non è autorizzato a a) usare, copiare, modificare, o distribuire il Prodotto Software diversamente da quanto stabilito nel presente Accordo; b) disassemblare e riassemblare, o altrimenti tradurre il Prodotto Software salvo quanto specificamente ammesso dalla legge senza la possibilità di recessione contrattuale; o 3) dare il Prodotto Software in sub-licenza, locazione o leasing.
+Lenovo è autorizzata a sospendere la licenza in caso di mancato rispetto dei termini e delle condizioni del presente Accordo. Qualora Lenovo proceda in tal modo, l’Utente è tenuto a distruggere tutte le copie esistenti del Prodotto Software.  
+3. Trasferibilità
+L’Utente non è autorizzato a trasferire o cedere il Prodotto Software a terzi se non autorizzato nella presente sezione.
+I Prodotti Software preinstallati sono concessi in licenza per l’uso esclusivo sui prodotti hardware Lenovo su cui sono preinstallati o inclusi e possono essere ceduti unicamente con quel prodotto hardware Lenovo. Non possono essere ceduti separatamente dal prodotto hardware Lenovo.
+4. Componenti e Prodotti Software di terzi
+Alcuni Prodotti Software Lenovo e futuri aggiornamenti e correzioni provvisorie possono contenere componenti di terzi che possono includere l’Ambiente di Preinstallazione Microsoft Windows. Tali componenti di terzi sono forniti separatamente all’Utente a termini e condizioni differenti rispetto a quelle del presente Accordo, normalmente presenti in un accordo di licenza separato o in un file README (o simile). Le condizioni e le limitazioni d’uso di licenze di terzi regolano unicamente l’utilizzo di tali componenti.    
+I Prodotti Software di terzi forniti da Lenovo possono essere regolati dai termini del presente Accordo ma sono abitualmente dati in licenza da terzi a condizioni e termini propri.  I Prodotti Software di terzi non concessi in licenza da Lenovo sono soggetti ai termini degli accordi di licenza che li accompagnano.  
+5. Specifiche del Prodotto Software  
+Le specifiche del Prodotto Software e le informazioni specifiche sull’ambiente operativo sono riportate nella documentazione a corredo del Prodotto Software, qualora esistente, quale un file README o simile, o altrimenti pubblicata da Lenovo.  
+6. Costo
+Il costo del Prodotto Software è basato sul livello d’uso acquisito. 
+Per aumentare il livello d’uso, contattare Lenovo o il fornitore presso cui il Prodotto Software è stato acquistato.  Possono risultare spese aggiuntive. 
+Qualora un’autorità imponga un dazio, tassa, imposta o diritto, esclusi quelli basati sul reddito netto di Lenovo, sul Prodotto Software, l’Utente acconsentirà al pagamento dell’importo specificato o presenterà la documentazione di esenzione. L’Utente è responsabile di tutte le imposte patrimoniali personali per il prodotto software a partire dalla data del suo acquisto.
+7. Nessuna garanzia
+Il/i Prodotto/i Software è/sono fornito/i all’Utente nello stato in cui si trova.   
+FATTA SALVA QUALSIVOGLIA GARANZIA STATUTARIA IMPOSSIBILE DA ESCLUDERE, LENOVO NON CONCEDE GARANZIE NE CONDIZIONI, ESPRESSE O IMPLICITE, INCLUSE (A TITOLO NON ESAUSTIVO) LE GARANZIE O CONDIZIONI IMPLICITE DI COMMERCIABILITA’, IDONEITA’ AD UNO SCOPO SPECIALE E NON VIOLAZIONE IN RELAZIONE AL PRODOTTO SOFTWARE O ALL’ASSISTENZA TECNICA, QUALORA APPLICABILE.
+L’esclusione interessa anche i programmatori e fornitori di Lenovo.
+Fornitori o pubblicatori di Prodotti Software non Lenovo possono fornire le proprie garanzie.
+Lenovo non fornisce assistenza tecnica, se non specificato diversamente per iscritto dalla stessa Lenovo.
+8. Limitazione di responsabilità
+Possono verificarsi circostanze in cui, a causa di un inadempimento da parte di Lenovo o altra responsabilità, l’Utente potrà richiedere il risarcimento per danni a Lenovo. In ogni tal caso, indipendentemente dalla base su cui l’Utente è autorizzato a richiedere il risarcimento a Lenovo (inclusa violazione fondamentale, negligenza, dichiarazione falsa, o altro reclamo contrattuale o atto illecito), salvo che e fino alla misura in cui tale responsabilità non possa essere evitata o limitata dalla legge applicabile, Lenovo è responsabile unicamente per l’importo dei danni diretti effettivi subiti dall’Utente, fino all’importo pagato dallo stesso per il Prodotto Software.  Tale limite non riguarda danni per lesioni fisiche (incluso il decesso) e danni a proprietà immobiliari e proprietà materiali personali per le quali Lenovo è responsabile per legge. 
+Questo limite è valido anche per i fornitori e rivenditori di Lenovo. E’ il massimo di cui Lenovo, i suoi fornitori e rivenditori sono responsabili congiuntamente.
+IN NESSUNA CIRCOSTANZA, LENOVO, I SUOI FORNITORI E RIVENDITORI SONO RESPONSABILI DEI SEGUENTI EVENTI ANCHE SE INFORMATI DELLA LORO EVENTUALITA’: 1) RECLAMI DA PARTE DI TERZI NEI CONFRONTI DELL’UTENTE PER DANNI; 2) PERDITA, O DANNEGGIAMENTO DEI DATI DELL’UTENTE; O 3) DANNI SPECIALI, ACCIDENTALI O INDIRETTI O QUALSIASI DANNO ECONOMICO CONSEGUENTE, INCLUSI PERDITA DI PROFITTO, ENTRATE AZIENDALI, AVVIAMENTO O RISPARMI ANTICIPATI. ALCUNI STATI O GIURISDIZIONI NON PERMETTONO L’ESCLUSIONE O LA LIMITAZIONE DI DANNI ACCIDENTALI O INDIRETTI, PERTANTO LA LIMITAZIONE O L’ESCLUSIONE DI CUI SOPRA POTREBBE NON ESSERE VALIDA PER L’UTENTE. 
+9. Diritti del consumatore
+Nulla di quanto contenuto nel presente Accordo influisce sui diritti statutari dei consumatori che non possono essere evitati o limitati per contratto. L’Utente può avere ulteriori diritti del consumatore relativi a leggi applicabili locali che, tuttavia, non possono cambiare il presente  Accordo.  
+10. Disposizioni generali 
+Nel caso in cui una delle disposizioni del presente Accordo fosse ritenuta non valida o non impugnabile, le rimanenti disposizioni del presente Accordo rimarranno intatte e interamente efficaci.  
+L’Utente acconsente a conformarsi a tutte le leggi e regolamenti d’esportazione ed importazione applicabili.  
+Né l’Utente né Lenovo solleverà un’azione legale in relazione al presente Accordo, trascorsi più di due (2) anni dal motivo dell’azione sorta se non diversamente previsto dalla legge locale senza la possibilità di rinuncia o limitazione contrattuali.  
+11. Risoluzione del contenzioso
+Qualora l’Utente abbia acquistato il prodotto software in Cambogia, Indonesia, Filippine, Vietnam o Sri Lanka, il contenzioso derivante da o legato a questo software sara’ definitivamente risolto dall’arbitrato di Singapore e il presente Accordo sarà regolato, interpretato e applicato in conformità alle leggi di Singapore, indipendentemente da conflitti di leggi. Qualora l’Utente abbia acquistato il prodotto software in India, il contenzioso derivante da o  legato a questo Prodotto Software sara’ risolto dall’arbitrato di Bangalore, India. L’arbitrato di Singapore si svolgerà in conformità alle norme d’Arbitrato del Centro di Arbitrato Internazionale di Singapore ("SIAC Rules") in vigore in quel momento. L’arbitrato in India si svolgerà in conformità alle leggi dell’India in vigore in quel momento. Il lodo arbitrale sarà definitivo e vincolante per le parti senza possibilità di appello, sarà in forma scritta e stabilirà i risultati di fatto e le conclusioni di legge.  Tutte le procedure arbitrali, inclusi tutti i documenti presentati nelle stesse, saranno gestiti in lingua inglese e la versione in lingua inglese del presente Accordo prevale su qualsiasi versione in altra lingua in tali procedure. 
+
+
+ 
+
+
+
+

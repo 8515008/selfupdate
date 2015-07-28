@@ -1,0 +1,57 @@
+﻿Lenovo  Licenèni sporazum
+L505-0009-01  04/2007
+Ta Licenèni sporazum podjetja Lenovo (“Sporazum”) velja za vso programsko opremo podjetja Lenovo, ki jo kupite, ne glede na to ali je predhodno namešèena oziroma jo dobite skupaj s strojno opremo podjetja Lenovo, jo prejmete loèeno, ali pa jo namestite s spletne strani podjetja Lenovo oziroma s spletne strani tretje stranke, ki jo je odobrilo podjetje Lenovo.  Velja tudi za vse posodobitve in popravke te programske opreme.  
+Ta Lenovo licenèni sporazum je na voljo tudi v drugih jezikih www.lenovo.com/license.  
+Lenovo bo programsko opremo licenciral le, èe sprejmete ta Sporazum.  Da se s pogoji iz tega Sporazuma strinjate, potrdite s klikom na sprejmem oziroma z namestitvijo, prenosom na vaš raèunalnik ali z uporabo programske opreme. 
+Èe se s temi pogoji ne strinjate, ne namešèajte, ne prenašajte in ne uporabljajte programske opreme. 
+• Èe ste prejeli programsko opremo in plaèali licenènino, programsko opremo vrnite stranki, od katere ste jo prejeli, stranka pa vam bo povrnila znesek ali izdala dobropis v znesku, ki ste ga plaèali. 
+• Èe je bila programska oprema predhodno namešèena ali ste jo prejeli skupaj s strojno opremo, lahko še naprej uporabljate strojno opremo, ne pa programske opreme, ki je predmet tega Sporazuma. 
+
+“Programska oprema” vkljuèuje raèunalniške programe (predhodno ali naknadno namešèene) in vse licenène materiale, kot je na primer dokumentacija.   
+“Vi” in “vaš” se nanaša na posameznika ali pravno osebo.
+1. Upravièenost
+Originalno dokazilo o nakupu z datumom, na primer potrdilo, raèun ali podobno, iz katerega je razvidno, da ste kupili programsko opremo, hranite, saj dokazujejo, da imate pravico uporabljati to programsko opremo. Dokazilo o nakupu doloèa stopnjo pravice, ki ste jo pridobili.  Èe ni doloèena stopnja uporabe, lahko na eni enoti strojne opreme namestite in uporabljate eno kopijo programske opreme.  Vaše dokazilo o nakupu dokazuje tudi vašo upravièenost do morebitnih prihodnjih nadgradenj. V primeru predhodno namešèene programske opreme, programske opreme, ki ste jo prejeli skupaj s strojno opremo ali brezplaèno za uporabo s to strojno opremo, vašo pravico do uporabe te programske opreme dokazuje dokazilo o nakupu strojne opreme. 
+2. Dovoljenje
+Lastnik programske opreme je Lenovo ali njegov dobavitelj, je licencirana in zašèitena z avtorskimi pravicami, ni prodana.  Lenovo vam dodeljuje neizkljuèno licenco za uporabo programske opreme, ko jo pridobite pravno veljavno.
+Za takšno uporabo lahko a) programsko opremo uporabljate do stopnje, doloèene v vašem dokazilu o prenosu in b) kopirate in namešèate kopije, vkljuèno z varnostno kopijo. Pogoji iz tega Sporazuma veljajo za vsako kopijo, ki jo naredite. Ne smete odstranjevati ali spreminjati nobenega zaznamka o avtorskih pravicah ali podatka o lastništvu.
+Èe programsko opremo prejmete kot nadgradnjo programske opreme, obstojeèe programske opreme po namestitvi nadgradnje ne smete veè uporabljati niti je prenašati na nekoga drugega.
+Zagotoviti morate, da vsak uporabnik to programsko opremo uporablja (do katere dostopa lokalno ali z oddaljene lokacije) samo po vašem pooblastilu in v skladu s pogoji iz tega Sporazuma.
+Programske opreme ne smete a) uporabljati, kopirati, spreminjati ali posredovati naprej, razen na naèin, doloèen v tem Sporazumu; b) razstavljati, razdirati ali na drug naèin prevajati, razen na naèin, ki je natanèno doloèen z zakonom, ne da bi pri tem prišlo do prekinitve pogodbe; ali 3) posredovati, dajati v najem ali v uporabo.
+Èe ne boste delovali v skladu s pogoji iz tega Sporazuma, vam lahko Lenovo odvzame licenco. Èe Lenovo to stori, morate unièiti vse kopije programske opreme.  
+3. Prenosljivost
+Programske opreme ne smete prenašati ali dodeljevati nikomur drugemu, razen kot je to dovoljeno v tem delu.
+Predhodno namešèena programska oprema je licencirana samo za uporabo skupaj s strojno opremo, na kateri je predhodno namešèena ali ste jo prejeli skupaj z njo, in jo lahko prenesete naprej le s to strojno opremo. Ne smete je prenašati naprej loèeno od strojne opreme Lenovo.
+4. Komponente programske opreme in proizvodi tretjih strank
+Doloèena programska oprema podjetja Lenovo in prihodnje posodobitve ter popravki lahko vsebujejo komponente tretje stranke, ki lahko vkljuèujejo predhodno namešèeno Microsoftovo Windows okolje. Te komponente tretjih strank prejmete pod posebnimi doloèili in pogoji iz tega Sporazuma; navadno jih najdete v posebnem licenènem sporazumu ali v datoteki z nazivom »PREBERI« (ali podobnim). Licenène pogoje in omejitev uporabe, kot jih doloèa tretja stranka, urejajo izkljuèno uporabo teh komponent.    
+Proizvode tretjih strank, ki jih trži Lenovo, lahko urejajo pogoji iz tega Sporazuma, vendar jih navadno licencirajo tretje stranke z lastnimi doloèili in pogoji.  Programska oprema tretjih strank, ki je ne licencira Lenovo, se ureja izkljuèno z licenènimi sporazumi tretjih strank.  
+5. Specifikacije programske opreme
+Specifikacije programske opreme in informacije o doloèenem okolju, v katerem deluje, najdete v dokumentaciji, ki je, èe obstaja, priložena programski opremi v obliki datoteke z nazivom »PREBERI« ali podobno, ali v drugi obliki, kot jo izda Lenovo.  
+6. Plaèila
+Znesek plaèila za programsko opremo je odvisen od stopnje uporabe, ki vam pripada. 
+Èe želite poveèati stopnjo uporabe, se obrnite na Lenovo ali stranko, pri kateri ste dobili programsko opremo.  Možna so doplaèila. 
+Èe zakonodaja doloèa za programsko opremo plaèilo davka, takse, pristojbine ali dajatve, razen tiste, ki temelji na èistem prihodku podjetja Lenovo, se strinjate, da boste doloèeni znesek plaèali ali pa priskrbeli dokazila, ki dokazujejo, da ste plaèila upravièeni. Odgovorni ste za plaèilo vseh davkov za zasebno lastnino od trenutka, ko ste kupili programsko opremo.
+7. Brez jamstva
+Programska oprema se prodaja po sistemu “videno kupljeno”.  
+RAZEN GARANCIJE, KI JE DOLOÈENA Z ZAKONOM, LENOVO NE ZAGOTAVLJA NOBENE DRUGE GARANCIJE ALI POGOJEV, NITI IZRAŽENIH NITI NAKAZANIH, VKLJUÈNO VENDAR NE IZKLJUÈNO Z NAKAZANIMI GARANCIJAMI ALI POGOJI TRGOVANJA, PRIMERNOSTI ZA DOLOÈENE NAMENE IN NEKRŠITEV KAR SE TIÈE PROGRAMSKE OPREME ALI TEHNIÈNE PODPORE, ÈE TA OBSTAJA.
+To izkljuèuje tudi vse razvijalce in dobavitelje podjetja Lenovo.
+Tisti, ki dobavljajo ali izdajajo programsko opremo, ki ni last podjetja Lenovo, lahko zagotavljajo svoje garancije.
+Lenovo ne zagotavlja tehniène podpore, razen èe Lenovo to pisno zagotovi.
+8. Omejitev odgovornosti
+V primeru, da pride s strani podjetja Lenovo do napake ali v primeru druge odgovornosti, ste upravičeni do povrnitve škode s strani podjetja Lenovo. V vsakem takem primeru, ne glede na osnovi česa ste upravičeni do povrnitve škode s strani podjetja Lenovo (vključno z osnovnimi napakami, malomarnostjo, napačne predstavitve ali druge pogodbene ali nedovoljene škode), razen in do mere, do katere odgovornost ne more biti odpovedana ali omejena z veljavno zakonodajo, Lenovo ni odgovoren za več kot znaša vrednost neposredne škode, ki ste jo utrpeli, do vrednosti, ki ste jo plačali za programsko opremo.  Ta omejitev se ne nanaša na škodo, nastalo pri telesni poškodbi (vključno s smrtjo) in škodo, nastalo na nepremičnini in materialni osebni lastnini, za katero je Lenovo odgovoren po zakonu. 
+Navedena omejitev velja tudi za Lenovove dobavitelje in preprodajalce. To je meja, do katere so Lenovo, njegovi dobavitelji in preprodajalci kolektivno odgovorni.
+LENOVO, NJEGOVI DOBAVITELJI ALI PREPRODAJALCI POD NOBENIMI POGOJI NE ODGOVARJAJO ZA NASLEDNJE PRIMERE, TUDI ÈE SO OBVEŠÈENI O MOŽNOSTIH, DA DO NJIH PRIDE: 1) ODŠKODNINSKI ZAHTEVKI TRETJIH OSEB ZOPER VAS; 2) IZGUBA ALI POŠKODBE VAŠIH PODATKOV ALI 3) POSEBNA, NAKLJUÈNA ALI POSREDNA ŠKODA ALI GOSPODARSKE POSLEDICE, VKLJUÈUJOÈ IZGUBLJENI DOBIÈEK, DOHODKE, DOBRO IME, ALI PRIÈAKOVANE PRIHRANKE. NEKATERE DRŽAVE ALI SODNE OBLASTI NE DOVOLJUJEJO IZKLJUÈITVE ALI OMEJITVE NAKLJUÈNE ALI POSLEDIÈNE ŠKODE, ZATO ZGORNJE OMEJITVE ALI IZKLJUÈITVE MORDA ZA VAS NE VELJAJO. 
+9. Potrošniške pravice
+Niè v tem sporazumu ne vpliva na zakonite potrošniške pravice, ki ne morejo biti odvzete ali omejene s pogodbo. Obstajajo lahko dodatne potrošniške pravice v okviru veljavne lokalne zakonodaje, ki jih ta Sporazum ne more spreminjati.  
+10. Splošno
+a) Èe se katera od doloèb tega Sporazuma izkaže za nepravilno ali neuresnièljivo, ostale doloèbe iz tega Sporazuma ostanejo veljavne.  
+b) Strinjate se, da delujete v skladu z veljavno izvozno in uvozno zakonodajo in uredbami.  
+c) Niti vi niti Lenovo ne boste sprožili pravnega postopka v okviru tega Sporazuma po preteku dveh (2) let po nastanku vzroka za postopek, razen èe je to drugaèe doloèeno z lokalno zakonodajo brez možnosti odpovedi ali omejitve pogodbe.  
+11. Reševanje sporov
+Èe ste izdelek kupili v Kambodži, Indoneziji, Filipinih, Vietnamu ali Šri Lanki, se vsi spori, ki izhajajo iz te garancijske pogodbe ali so z njo povezani, razrešijo z arbitražo v Singapurju, ta sporazum pa je treba tolmaèiti in izvršiti v skladu z zakoni, ki veljajo v Singapurju, ne glede na nasprotje z drugimi zakoni. Èe ste izdelek kupili v Indiji, se vsi spori, ki izhajajo iz tega sporazuma oziroma so z njim povezani, razrešijo z arbitražo v Bangalore, Indija. Arbitraža v Singapurju se izvede v skladu z veljavnimi arbitražnimi pravili SIAC (pravila Mednarodnega arbitražnega centra v Singapurju). Arbitraža v Indiji se izvede v skladu z veljavnimi zakoni v Indiji. Arbitražna odloèba je dokonèna in obvezujoèa za obe strani brez možnosti pritožbe, izdana v pisni obliki in z obrazložitvijo ugotovljenih dejstev in zakonskih podlag.  Celoten arbitražni postopek poteka v anglešèini, v anglešèini pa morajo biti tudi vsi v postopku predstavljeni dokumenti. V takšnih postopkih angleška razlièica tega sporazuma prevlada nad razlièico dokumenta v kateremkoli drugem jeziku. 
+
+
+ 
+
+
+
+

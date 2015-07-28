@@ -1,0 +1,57 @@
+Lenovo  Contrato de Licença 
+L505-0009-01  04/2007
+O Contrato de Licença da Lenovo (o “Contrato”) é válido para todo Programa da Lenovo que o Cliente adquirir, pré-instalado ou incluído em um equipamento da Lenovo, adquirido separadamente ou quando o Cliente fizer o download do website da Lenovo ou de terceiros aprovados pela Lenovo.  Estes termos são válidos também para atualizações ou patches destes Programas.  
+Este Contrato de Licença da Lenovo é encontrado em outros idiomas em www.lenovo.com/license.  
+A Lenovo licenciará o Programapara o Cliente apenas se este aceitar este Contrato.  O Cliente concorda com o termos deste Contrato ao clicar para aceitar ou instalar, fazer o download ou usar este Programa. 
+Se não concordar com estes termos, o Cliente não deve instalar, fazer o download ou usar o(s) Programa(s). 
+* Se o Cliente adquiriu o(s) Programa (s) e pagou a taxa de licença, deve devolver o Programa ao fornecedor de quem foi adquirido para obter reembolso ou crédito do valor pago. 
+* Se o Cliente adquiriu o(s)  Programa(s) pré-instalado(s) ou fornecido(s) com um equipamento da Lenovo, o Cliente pode continuar a usar o equipamento, mas não os o(s)  Programa(s)cobertos por este Contrato. 
+
+O “Programa” compreende programas de computador (pré-instalados ou fornecidos separadamente) e os materiais de licença afins, como documentação.   
+“Cliente” e “Seu” referem-se a pessoa física ou a pessoa jurídica.
+1. Direitos
+O Cliente deve manter Seu documento original datado da transação de vendas, como recibo, fatura ou assemelhado, como prova de Seu direito de uso do Programa. O documento de transação especifica o nível de uso adquirido.  Se o nível de uso não for especificado, O Cliente pode instalar e usar uma única cópia do Programa num único equipamento.  Seu documento de transação contém também prova de Seu direito a atualizações futuras, se houver. No tocante a Programa pré-instalados ou incluídos ou distribuídos sem custo para seu uso num equipamento da Lenovo, Seu documento de transação de venda de produto de equipamento também é prova de Seu direito de uso do Programa. 
+2. Licença
+O Programa é de propriedade da Lenovo ou fornecedor da Lenovo e tem copyright e é licenciado, não vendido.  A Lenovo concede uma licença de uso não exclusiva para o Programa quando o Cliente o adquire licitamente.
+O Cliente pode a) usar o Programa até o nível de uso especificado em Seu documento da transação; e b) fazer e instalar cópias, inclusive cópia de backup, para cada uso. Os termos deste Contrato aplicam-se a cada cópia que o Cliente fizer. O Cliente não pode remover ou alterar as notificações de direito de autor ou legendas de propriedade.
+Se adquirir o Programa como atualização de programa, após instalar a atualização, o Cliente não pode usar o Programa que foi atualizado ou transferi-lo a terceiros.
+O Cliente deve assegurar que quem utilize o Programa (por acesso local ou remoto) o faz apenas para Seu uso autorizado e obedece os termos deste Contrato. 
+O Cliente não pode a) usar, copiar, modificar ou distribuir o Programa exceto se previsto neste Contrato; b) praticar montagem reversa, compilação reversa ou traduzir o Programa exceto se especificamente permitido pela legislação sem a possibilidade de cláusula de renúncia; ou c) sub-licenciar, alugar ou arrendar o Programa.
+A Lenovo pode cancelar a licença se o Cliente não cumprir os termos deste Contrato. Se a Lenovo o fizer, o Cliente deve destruir todas as cópias do Programa.  
+3. Transferência
+O Cliente não pode transferir ou ceder o Programa a terceiros, exceto se permitido nesta seção.
+Os Programas pré-instalados são licenciados para uso apenas com equipamentos da Lenovo, no qual estejam pré-instalados ou incluídos e podem ser transferidos apenas com este equipamento da Lenovo. Não podem ser transferidos independentemente do equipamento da Lenovo.
+4. Componentes e programas de terceiros
+Alguns dos Programas da Lenovo e atualizações e patches futuros podem conter componentes de terceiros, como o Microsoft Windows Preinstallation Environment (Ambiente de Pré-Instalação do Microsoft Windows). Estes componentes de terceiros lhe são fornecidos mediante termos e condições separados, diferentes dos constantes neste Contrato, em geral encontrados em contrato de licença separado ou num arquivo README (ou de nome semelhante). Os termos e restrições de uso da licença de terceiros aplicar-se-ão apenas ao uso de tais componentes.    
+Os Programas de Terceiros, fornecidos pela Lenovo, poderão seguir os termos deste Contrato, mas, em geral, são licenciados por Terceiros conforme seus próprios termos e condições.  Os Programas de Terceiros que não são licenciados pela Lenovo são sujeitos tão-somente aos termos de seus respectivos contratos de licença.  
+5. Especificações do Programa  
+As especificações do Programa e informações específicas sobre o sistema operacional encontram-se na documentação que acompanha o Programa, se disponível, como arquivo chamado README ou com nome semelhante, ou publicada pela Lenovo.  
+6. Preços
+Os preços para o Programa têm por base o nível de uso adquirido. 
+Se o Cliente deseja aumentar o nível de uso, deve contatar a Lenovo ou o fornecedor de quem adquiriu o Programa.  Podem haver encargos adicionais. 
+Se houver tributo, imposto, encargo ou taxa cobrados por um governo, à exceção daqueles baseados no lucro líquido da Lenovo, sobre o Programa, o Cliente concorda em pagar o valor especificado ou fornecer documento de isenção. O Cliente é responsável por tributos pessoais para o Programa a partir da data de sua aquisição.
+7. Sem garantia
+O(s) Programa(s) lhe é/são fornecido(s) “NO ESTADO EM QUE SE ENCONTRAM”.	  
+COM EXCEÇÃO DAS GARANTIAS PREVISTAS EM LEI QUE NÃO PODEM SER EXCLUÍDAS, A LENOVO NÃO PROMOVE GARANTIAS OU CONDIÇÕES, EXPRESSAS OU IMPLÍCITAS, INCLUSIVE E ALÉM DAS GARANTIAS OU CONDIÇÕES IMPLÍCITAS DE COMERCIABILIDADE, ADEQUAÇÃO PARA UM FIM ESPECÍFICO E NÃO INFRAÇÃO A DIREITOS AUTORAIS RELATIVOS AO PROGRAMA OU SUPORTE TÉCNICO, SE HOUVER.
+A exclusão aplica-se também a desenvolvedores e fornecedores da Lenovo.
+Fornecedores ou editores de Programas que não sejam da Lenovo oferecerão suas próprias garantias.
+A Lenovo não oferece suporte técnico, exceto se especificado por escrito pela Lenovo.
+8. Limitação de Responsabilidade
+Podem ocorrer circunstâncias em que, devido a uma falha por parte da Lenovo ou outra responsabilidade, o Cliente terá direito ao ressarcimento de prejuízos pela Lenovo. Em cada ocorrência, independente da base que o Cliente tenha para reclamar direitos por danos da Lenovo (incluindo infração fundamental, negligência, declarações falsas ou outro contrato ou ilícito civil), e excluindo qualquer responsabilidade que não possa ser limitada ou renunciada pelas leis aplicáveis, a Lenovo não é responsável por mais que a quantia de danos diretos sofridos pelo Cliente, até a quantia paga pelo produto.  Essa limitação não se aplica a danos por lesões físicas (incluindo morte) e danos a bens imóveis e pessoais pelos quais a Lenovo é legalmente responsável. 
+Este limite também se aplica a fornecedores e revendedores da Lenovo. É o máximo pelo qual a Lenovo, seus fornecedores e revendedores são responsáveis coletivamente.
+EM NENHUMA CIRCUNSTÂNCIA, A LENOVO, SEUS FORNECEDORES OU REVENDEDORES SERÃO RESPONSÁVEIS POR QUALQUER EVENTO A SEGUIR, MESMO SE ADVERTIDOS DESSA POSSIBILIDADE: 1) REIVINDICAÇÕES DE TERCEIROS CONTRA O CLIENTE POR DANOS; 2) PERDA OU DANOS AOS DADOS OU 3) DANOS ESPECÍFICOS, INCIDENTAIS OU INDIRETOS OU POR QUALQUER PREJUÍZO DE NATUREZA FINANCEIRA, INCLUINDO LUCROS CESSANTES, RESULTADOS COMERCIAIS, FUNDO DE COMÉRCIO OU RESERVA ANTECIPADA. ALGUNS ESTADOS OU JURISDIÇÕES NÃO PERMITEM A EXCLUSÃO OU LIMITAÇÃO DE DANOS INCIDENTAIS OU IMPREVISTOS, PORTANTO ESTA LIMITAÇÃO OU EXCLUSÃO PODE NÃO SER APLICÁVEL AO CLIENTE. 
+9. Direitos do consumidor
+Nenhum item deste Contrato afeta seus diretos como consumidor, previstos em lei, que não possam ser renunciados ou limitados por contrato. O Cliente terá direitos de consumidor adicionais conforme a legislação em vigor, que não podem ser alterados por este Contrato.  
+10. Geral 
+a) No caso de uma cláusula deste Contrato ser considerada inválida ou inexeqüível, os demais termos e condições deste Contrato continuarão em pleno vigor e efeito.  
+b) O Cliente concorda em obedecer a legislação e regulamentos aplicáveis sobre exportação e importação.  
+c) Nem o Cliente, nem a Lenovo iniciarão processo com fundamento neste Contrato mais de dois (2) anos após o surgimento da causa da ação, exceto se previsto na legislação local sem a possibilidade de renúncia ou limitação contratual.  
+11. Resolução de litígio 
+ Se o Cliente tiver adquirido o produto no Camboja, Indonésia, Filipinas, Vietnã ou Sri Lanka, os litígios originados de ou relacionados a esta garantia serão decididos por arbitragem realizada em Cingapura e esta garantia deverá ser governada, interpretada e vigorará de acordo com as leis de Cingapura, sem que haja conflito de leis. Se o Cliente tiver adquirido o produto na Índia, os litígios originados de ou relacionados a esta garantia serão decididos por arbitragem realizada em Bangalore, Índia. A arbitragem em Cingapura deverá ser realizada de acordo com as Regras de Arbitragem do Singapore International Arbitration Center ("Regras do SIAC") em vigor no momento. A arbitragem na Índia deverá ser realizada de acordo com as leis da Índia em vigor no momento. A decisão da arbitragem será final e definitiva para as partes, sem possibilidade recursal, e será escrita e apresentará os fatos e conclusões legais.  Todos os processos de arbitragem serão conduzidos, incluindo todos os documentos apresentados neles, no idioma inglês, e a versão em inglês desta garantia prevalecerá sobre quaisquer versões em qualquer outro idioma. 
+
+
+ 
+
+
+
+

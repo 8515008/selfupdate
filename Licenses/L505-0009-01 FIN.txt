@@ -1,0 +1,55 @@
+Lenovo  License Agreement 
+L505-0009-01  04/2007
+Tämä Lenovon lisenssisopimus ( “Sopimus”) kattaa kaikki hallussasi olevat Lenovo-ohjelmat, olivat ne valmiiksi asennettuja tai Lenovo-laitteen yhteydessä toimitettuja, erikseen ostettuja taikka Lenovon omilta tai Lenovon hyväksymiltä muiden osapuolten nettisivuilta lataamiasi.  Tämä sopimus pätee myös kyseisten ohjelmien päivityksiin tai uudistuksiin.  
+Muunkielisiä käännöksiä tästä Lenovon lisenssisopimuksesta on saatavissa osoitteessa  www.lenovo.com/license.  
+Lenovo myöntää ohjelmalisenssin sinulle vain siinä tapauksessa, että hyväksyt tämän Sopimuksen ehdot.  Sinun katsotaan hyväksyneen tämän Sopimuksen ehdot jos näpäytät Sopimuksen hyväksymisen vahvistukseksi, tai jos asennat, lataat tietokoneellesi tai käytät kyseessä olevia ohjelmia. 
+Jos et hyväksy tämän Sopimuksen ehtoja, älä silloin asenna, lataa tietokoneellesi tai käytä kyseessä olevia ohjelmia. 
+* Jos maksoit ohjelmien hankkimisesi yhteydessä lisenssimaksun, palauta ohjelmat myyjällesi, joka palauttaa sinulle rahasi tai hyvittää ostohinnan muita ostoksia vastaan. 
+* Jos ohjelma oli valmiiksi asennettu tai toimitettiin Lenovo-laitteen kanssa, voit jatkaa laitteiston käyttöä mutta ei tämän Sopimuksen kattavien ohjelmien käyttöä. 
+
+“Ohjelma(t)” käsittää tietokoneohjelmat (joko valmiiksi asennettu tai erikseen toimitettu) ja niihin liittyvät lisenssinalaiset materiaalit, esim. asiakirjat.   
+“Sinä” ja  “Sinun” viittaavat joko yksityishenkilöön tai juridiseen henkilöön.
+
+1. Oikeutus
+Sinun on säilytettävä tallessa alkuperäinen myyntitapahtuma-asiakirjasi, esim. kuitti, lasku, tai muu vastaava dokumentti, joka on todiste oikeudestasi käyttää ohjelmaa. Myyntitapahtuma-asiakirja määrittää käyttölisenssin tason. Mikäli käyttötasoa ei ole määritelty, sinulla on lupa asentaa yksi kopio ohjelmasta ja käyttää sitä yhdessä tietokoneessa. Myyntitapahtuma-asiakirjasi toimii myös todisteena oikeutuksestasi mahdollisesti julkaistaviin päivitysversioihin. Myyntitapahtuma-asiakirja on myös todiste oikeudestasi käyttää valmiiksi asennettuja tai Lenovo-laitteiden mukana ilmaiseksi toimitettavia ohjelmia. 
+2. Lisenssi
+Ohjelmien omistaja on Lenovo tai Lenovon toimittaja, ja ohjelmat ovat tekijänoikeuslakien ja lisenssien alaisia, ohjelmia ei myydä.  Lenovo antaa sinulle yleislisenssin käyttää ohjelmia ne laillisesti hankkiessasi.
+Olet oikeutettu a) käyttämään ohjelmia myyntitapahtuma-asiakirjassasi määritetyn käyttötason mukaisesti b) tekemään ja asentamaan kopioita, varmuuskopio mukaan lukien, käyttöäsi varten. Tämän Sopimuksen ehdot pätevät jokaiseen tekemääsi ohjelmakopioon. Sinun ei saa poistaa tai muuttaa tekijänoikeusilmoituksia tai levyn omistusoikeuskirjoituksia.
+Jos hankit ohjelman päivitysversiona, päivitysversion asennettuasi et saa enää käyttää sitä ohjelmaa jonka päivitit, tai antaa sitä muille osapuolille.
+Sinun tulee varmistaa, että kaikki muut ohjelman käyttäjät (oli käyttö joko paikallista tai etäkäyttöä) saavat käyttää ohjelmaa vain sinulle annetun käyttölisenssin alaisena ja he noudattavat tämän Sopimuksen ehtoja.  
+Sinun ei saa a) käyttää, kopioida, muuntaa tai jakaa ohjelmaa muille muutoin kuin tämän Sopimuksen ehtojen puitteissa; b) purkaa tai muutoin muuttaa ohjelmaa ilman erillislupaa, paitsi lain sallimissa erityispuitteissa; tai 3) lisensoida eteenpäin tai vuokrata ohjelmaa.
+Lenovo voi perua lisenssioikeutesi jos rikot tämän Sopimuksen ehtoja. Jos Lenovo tekee näin, sinun on tuhottava kaikki ohjelman kopiot.  
+3. Ohjelmien muille siirto
+Sinun ei saa siirtää tai luovuttaa ohjelmaa muille osapuolille muutoin kuin tässä kappaleessa sallituissa puitteissa.
+Valmiiksi asennetut ohjelmat on lisensoitu käytettäväksi vain sen Lenovo-laitteen kanssa johon ne on asennettu tai jonka kanssa ne toimitetaan, ja niiden siirto on sallittua vain yhdessä kyseisen Lenovo-laitteen kanssa. Ohjelmien muille siirto ilman Lenovo-laitetta ei ole sallittua.
+4. Muiden osapuolien ohjelmat ja ohjelmakomponentit
+Jotkin Lenovon ohjelmat ja ohjelmapäivitykset tai uudistukset voivat sisältää muiden osapuolien komponentteja, kuten myös valmiiksi asennetun Microsoft Windows –työympäristön. Muiden osapuolien ohjelmakomponentit toimitetaan tästä Sopimuksesta eriävillä ehdoilla, jotka tavallisesti ilmenevät eri sopimuksen tai README -tiedoston (tai vastaavan nimisen tiedoston) muodossa. Sellaiset muiden osapuolien lisenssiehdot ja käyttörajoitukset liittyvät yksinomaan heidän ohjelmakomponentteihinsa.    
+Lenovon toimittamat muiden osapuolien ohjelmat saattavat sisältyä tähän Sopimukseen, mutta yleensä kolmannet osapuolet lisensoivat tuotteensa omilla ehdoillaan. Muiden osapuolien ohjelmat jotka eivät kuulu Lenovon lisenssin piiriin toimitetaan yksinomaisesti niiden omien lisenssisopimusten ehdoilla.  
+5. Ohjelmien tekniset määrittelyt  
+Ohjelmien tekniset määrittelyt ja käyttöjärjestelmän määritykset löytyvät ohjelmien mukana toimitettavista asiakirjoista ja, jos saatavissa,  README –tiedostosta tai vastaavan nimisestä tiedostosta, tai Lenovon muusta julkaisusta.  
+6. Käyttömaksut
+Ohjelmien käyttömaksut riippuvat tarvittavasta käyttötasosta. 
+Jos haluat laajemman käyttötason, ota yhteyttä Lenovoon tai ohjelmasi myyntiliikkeeseen. Voit joutua suorittamaan lisämaksun. 
+Jos ohjelma joutuu tullimaksujen tai verotuksen tai muiden viranomaisten säätämien maksujen kohteeksi, muutoin kuin Lenovon nettotuloihin perustuen, sinä suostut maksamaan vaaditun summan tai esittämään verovapauksesi vahvistavat asiakirjat. Sinä olet vastuussa ohjelmasta koituvista henkilökohtaisista omaisuusveroista ohjelman hankintapäivästä lukien.
+7. Ei takuuta
+Ohjelma toimitetaan sinulle SELLAISENAAN.  
+LUKUUNOTTAMATTA LAKISÄÄTEISIÄ TAKUITA JOITA EI VOI RAJOITTAA, LENOVO EI ANNA OHJELMIEN TAI MAHDOLLISEN TEKNISEN AVUN SUHTEEN MINKÄÄNLAISIA TAKUITA TAI LUPAUKSIA, NIMENOMAISIA  TAI KONKLUDENTTISIA, MUKAANLUKIEN KONKLUDENTTISET TAKUUT TAI LUPAUKSET MYYNTIKELPOISUUDESTA, SOPIVUUDESTA JOHONKIN ERITYISEEN TARKOITUKSEEN SEKÄ OIKEUKSIEN LOUKKAAMATTOMUUDESTA.
+Ylläoleva rajoituslauseke kattaa myös Lenovon ohjelmien laatijat ja toimittajat.
+Lenovolle kuulumatomien ohjelmien toimittajat tai julkaisijat saattavat tarjota omia takuitaan tuotteilleen.
+Lenovo ei toimita teknistä avustusta ellei toisin kirjallisesti ilmoitettu.
+8. Vastuunrajoitus
+Voi syntyä tilanne jolloin Lenovosta johtuvasta syystä sinulla on oikeus vaatia Lenovolta korvausta. Sellaisissa olosuhteissa, riippumatta syystä joka oikeuttaa sinut korvaukseen Lenovolta (mukaanlukien olennainen rikkomus, huolimattomuus, vääristely, tai jokin muu sopimukseen liittyvä tai rikkomuksellinen vaade) ja niin pitkälle kuin vastuusta ei voi kieltäytyä tai sitä rajoittaa lain sallimissa puitteissa, Lenovo on vastuussa ainoastaan sinun välittömästi kärsimistäsi vahingoista ja korkeintaan ohjelman ostohinnan arvoon saakka. Tämä rajoitus ei päde ruumiinvammoihin (kuolema mukaanluettuna) ja kiinteistö- tai omaisuusvahinkoihin, joista Lenovo on lain mukaan vastuussa. Ylläoleva rajoitus kattaa myös Lenovon toimittajat ja jälleenmyyjät. Se on korkein määrä, josta Lenovo tai sen toimittajat ja jälleenmyyjät ovat yhdessä vastuussa.
+LENOVO, SEN TOIMITTAJAT TAI JÄLLEENMYYJÄT EIVÄT  OLE MISSÄÄN TAPAUKSESSA VASTUUSSA MISTÄÄN SEURAAVISTA VAATIMUKSISTA EDES SIINÄ TAPAUKSESSA ETTÄ MAHDOLLISISTA VAATIMUKSISTA HEILLE ILMOITETAAN: 1) KOLMANSIEN OSAPUOLIEN VAHINGONKORVAUSVAATEET SINUA VASTAAN; 2) TIETOJESI MENETYS TAI VAURIOITUMINEN; TAI 3) ERITYISET, SATUNNAISET TAI VÄLILLISET VAHINGONKORVAUSVAATIMUKSET TAI TALOUDELLISET SEURANNAISKORVAUSVAATIMUKSET, JOIHIN SISÄLTYY VOITON MENETYS, LIIKETUOTTO, GOODWILL TAI ODOTETUT SÄÄSTÖT. JOTKIN VALTIOT TAI OIKEUDENKÄYTTÖALUEET EIVÄT SALLI SATUNNAISTEN TAI SEURANNAISKORVAUSTEN POISSULKEMISTA TAI RAJOITUSTA, JOTEN ON MAHDOLLISTA ETTÄ YLLÄOLEVA RAJOITUSLAUSEKE EI PÄDE SINUUN.
+9. Kuluttajansuoja 
+Tämän Sopimuksen sisältö ei vaikuta kuluttajansuojaoikeuksiin, joita ei voi poissulkea tai rajoittaa sopimuksella. Sinulla voi olla lisäksi  muita paikallisen lainsäädännön asettamia kuluttajansuojaoikeuksia, joihin tämä Sopimus ei vaikuta.  
+10. Yleistä 
+a) Mikäli jokin tämän Sopimuksen lausekkeista katsotaan pätemättömäksi tai täytäntöpakottomaksi, kaikki muut Sopimuksen ehdot säilyvät voimassa ja täytäntöönpanokelpoisina.  
+b) Sinulla on velvollisuus noudattaa tuonti- ja vientilakeja ja -säännöksiä.  
+c) Joko sinä tai Lenovo ei nosta tästä Sopimuksesta aiheutuvia lakikanteita jos kanteeseen johtavasta syystä on kulunut yli kaksi (2) vuotta, ellei paikallisella lainsäädännöllä ole toisin asetettu, ilman sopimuksellista rajoitusta.  
+11. Riitojen ratkaisu
+Jos hankit ohjelmasi Kambodzassa, Indonesiassa, Filippineillä, Vietnamissa tai Sri Lankassa, tästä ohjelmasta aiheutuvat erimielisyydet ratkaistaan lopullisesti välimiesselvittelyllä Singaporessa, ja tämä Sopimus tulkitaan ja täytäntöönpannaan Singaporen lakien mukaisesti, riitaan soveltuviin lakeihin liittyviä mahdollisia ristiriitaisuuksia huomioimatta. Jos hankit ohjelmasi Intiassa, tästä ohjelmasta aiheutuvat erimielisyydet ratkaistaan lopullisesti välimiesselvittelyllä Bangaloressa, Intiassa. Välimiesselvitys Singaporessa tapahtuu voimassa olevien Singapore International Arbitration Center-välimiesselvittelysääntöjen ("SIAC-säännöt") mukaisesti. Välimiesselvittely Intiassa tapahtuu voimassa olevien Intian lakien mukaisesti. Välimiesselvittelyn päätös on lopullinen ja osapuolia sitova ilman valitusmahdollisuutta. Päätös on kirjallinen ja siitä tulee ilmetä päätöksen tosiseikkaperusteet ja lakiperusteiset johtopäätökset. Kaikki välimiesselvittelytoimenpiteet tapahtuvat englannin kielellä ja kaikki asiakirjat on toimitettava englanninkielisinä. Tämän Sopimuksen englanninkielinen versio vallitsee välimiesselvittelyssä yli Sopimuksen käännösten. 
+ 
+
+
+
+
